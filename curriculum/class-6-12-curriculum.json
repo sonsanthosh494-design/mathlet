@@ -1,0 +1,527 @@
+{
+  "schemaVersion": "1.0",
+  "board": "Tamil Nadu State Board",
+  "subject": "Mathematics",
+  "source": "TNTextbooks 2024-2025 editions",
+  "exerciseNumbersStatus": "Pending verified extraction",
+  "classes": [
+    {
+      "classLevel": 6,
+      "sections": [
+        {
+          "id": "6-T1",
+          "name": "Term 1",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Numbers",
+              "titleTamil": "எண்கள்"
+            },
+            {
+              "number": 2,
+              "title": "Introduction to Algebra",
+              "titleTamil": "இயற்கணிதம்"
+            },
+            {
+              "number": 3,
+              "title": "Ratio and Proportion",
+              "titleTamil": "விகிதம் மற்றும் விகித சமம்"
+            },
+            {
+              "number": 4,
+              "title": "Geometry",
+              "titleTamil": "வடிவியல்"
+            },
+            {
+              "number": 5,
+              "title": "Statistics",
+              "titleTamil": "புள்ளியியல்"
+            },
+            {
+              "number": 6,
+              "title": "Information Processing",
+              "titleTamil": "தகவல் செயலாக்கம்"
+            }
+          ]
+        },
+        {
+          "id": "6-T2",
+          "name": "Term 2",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Numbers",
+              "titleTamil": "எண்கள்"
+            },
+            {
+              "number": 2,
+              "title": "Measurements",
+              "titleTamil": "அளவைகள்"
+            },
+            {
+              "number": 3,
+              "title": "Bill, Profit and Loss",
+              "titleTamil": "பட்டியல், இலாபம் மற்றும் நட்டம்"
+            },
+            {
+              "number": 4,
+              "title": "Geometry",
+              "titleTamil": "வடிவியல்"
+            },
+            {
+              "number": 5,
+              "title": "Information Processing",
+              "titleTamil": "தகவல் செயலாக்கம்"
+            }
+          ]
+        },
+        {
+          "id": "6-T3",
+          "name": "Term 3",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Fractions",
+              "titleTamil": "பின்னங்கள்"
+            },
+            {
+              "number": 2,
+              "title": "Integers",
+              "titleTamil": "முழுக்கள்"
+            },
+            {
+              "number": 3,
+              "title": "Perimeter and Area",
+              "titleTamil": "சுற்றளவு மற்றும் பரப்பளவு"
+            },
+            {
+              "number": 4,
+              "title": "Symmetry",
+              "titleTamil": "சமச்சீர்"
+            },
+            {
+              "number": 5,
+              "title": "Information Processing",
+              "titleTamil": "தகவல் செயலாக்கம்"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classLevel": 7,
+      "sections": [
+        {
+          "id": "7-T1",
+          "name": "Term 1",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Number System",
+              "titleTamil": "எண்ணியல்"
+            },
+            {
+              "number": 2,
+              "title": "Measurements",
+              "titleTamil": "அளவைகள்"
+            },
+            {
+              "number": 3,
+              "title": "Algebra",
+              "titleTamil": "இயற்கணிதம்"
+            },
+            {
+              "number": 4,
+              "title": "Direct and Inverse Proportion",
+              "titleTamil": "நேர் மற்றும் எதிர் விகிதங்கள்"
+            },
+            {
+              "number": 5,
+              "title": "Geometry",
+              "titleTamil": "வடிவியல்"
+            },
+            {
+              "number": 6,
+              "title": "Information Processing",
+              "titleTamil": "தகவல் செயலாக்கம்"
+            }
+          ]
+        },
+        {
+          "id": "7-T2",
+          "name": "Term 2",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Number System",
+              "titleTamil": "எண்ணியல்"
+            },
+            {
+              "number": 2,
+              "title": "Measurements",
+              "titleTamil": "அளவைகள்"
+            },
+            {
+              "number": 3,
+              "title": "Algebra",
+              "titleTamil": "இயற்கணிதம்"
+            },
+            {
+              "number": 4,
+              "title": "Geometry",
+              "titleTamil": "வடிவியல்"
+            },
+            {
+              "number": 5,
+              "title": "Information Processing",
+              "titleTamil": "தகவல் செயலாக்கம்"
+            }
+          ]
+        },
+        {
+          "id": "7-T3",
+          "name": "Term 3",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Number System",
+              "titleTamil": "எண்ணியல்"
+            },
+            {
+              "number": 2,
+              "title": "Percentage and Simple Interest",
+              "titleTamil": "சதவீதமும் தனிவட்டியும்"
+            },
+            {
+              "number": 3,
+              "title": "Algebra",
+              "titleTamil": "இயற்கணிதம்"
+            },
+            {
+              "number": 4,
+              "title": "Geometry",
+              "titleTamil": "வடிவியல்"
+            },
+            {
+              "number": 5,
+              "title": "Statistics",
+              "titleTamil": "புள்ளியியல்"
+            },
+            {
+              "number": 6,
+              "title": "Information Processing",
+              "titleTamil": "தகவல் செயலாக்கம்"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classLevel": 8,
+      "sections": [
+        {
+          "id": "8-FULL",
+          "name": "Complete textbook",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Numbers",
+              "titleTamil": "எண்கள்"
+            },
+            {
+              "number": 2,
+              "title": "Measurements",
+              "titleTamil": "அளவைகள்"
+            },
+            {
+              "number": 3,
+              "title": "Algebra",
+              "titleTamil": "இயற்கணிதம்"
+            },
+            {
+              "number": 4,
+              "title": "Life Mathematics",
+              "titleTamil": "வாழ்வியல் கணிதம்"
+            },
+            {
+              "number": 5,
+              "title": "Geometry",
+              "titleTamil": "வடிவியல்"
+            },
+            {
+              "number": 6,
+              "title": "Statistics",
+              "titleTamil": "புள்ளியியல்"
+            },
+            {
+              "number": 7,
+              "title": "Information Processing",
+              "titleTamil": "தகவல் செயலாக்கம்"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classLevel": 9,
+      "sections": [
+        {
+          "id": "9-FULL",
+          "name": "Complete textbook",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Set Language",
+              "titleTamil": "கண மொழி"
+            },
+            {
+              "number": 2,
+              "title": "Real Numbers",
+              "titleTamil": "மெய்யெண்கள்"
+            },
+            {
+              "number": 3,
+              "title": "Algebra",
+              "titleTamil": "இயற்கணிதம்"
+            },
+            {
+              "number": 4,
+              "title": "Geometry",
+              "titleTamil": "வடிவியல்"
+            },
+            {
+              "number": 5,
+              "title": "Coordinate Geometry",
+              "titleTamil": "ஆயத்தொலை வடிவியல்"
+            },
+            {
+              "number": 6,
+              "title": "Trigonometry",
+              "titleTamil": "முக்கோணவியல்"
+            },
+            {
+              "number": 7,
+              "title": "Mensuration",
+              "titleTamil": "அளவியல்"
+            },
+            {
+              "number": 8,
+              "title": "Statistics",
+              "titleTamil": "புள்ளியியல்"
+            },
+            {
+              "number": 9,
+              "title": "Probability",
+              "titleTamil": "நிகழ்தகவு"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classLevel": 10,
+      "sections": [
+        {
+          "id": "10-FULL",
+          "name": "Complete textbook",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Relations and Functions",
+              "titleTamil": "சார்புகள் மற்றும் சார்பகங்கள்"
+            },
+            {
+              "number": 2,
+              "title": "Numbers and Sequences",
+              "titleTamil": "எண்கள் மற்றும் தொடர்வரிசைகள்"
+            },
+            {
+              "number": 3,
+              "title": "Algebra",
+              "titleTamil": "இயற்கணிதம்"
+            },
+            {
+              "number": 4,
+              "title": "Geometry",
+              "titleTamil": "வடிவியல்"
+            },
+            {
+              "number": 5,
+              "title": "Coordinate Geometry",
+              "titleTamil": "ஆயத்தொலை வடிவியல்"
+            },
+            {
+              "number": 6,
+              "title": "Trigonometry",
+              "titleTamil": "முக்கோணவியல்"
+            },
+            {
+              "number": 7,
+              "title": "Mensuration",
+              "titleTamil": "அளவியல்"
+            },
+            {
+              "number": 8,
+              "title": "Statistics and Probability",
+              "titleTamil": "புள்ளியியல் மற்றும் நிகழ்தகவு"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classLevel": 11,
+      "sections": [
+        {
+          "id": "11-V1",
+          "name": "Volume 1",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Sets, Relations and Functions",
+              "titleTamil": "கணங்கள், சார்புகள் மற்றும் சார்பகங்கள்"
+            },
+            {
+              "number": 2,
+              "title": "Basic Algebra",
+              "titleTamil": "அடிப்படை இயற்கணிதம்"
+            },
+            {
+              "number": 3,
+              "title": "Trigonometry",
+              "titleTamil": "முக்கோணவியல்"
+            },
+            {
+              "number": 4,
+              "title": "Combinatorics and Mathematical Induction",
+              "titleTamil": "சேர்ப்பியல் மற்றும் கணிதத் தொகுத்தறிதல்"
+            },
+            {
+              "number": 5,
+              "title": "Binomial Theorem, Sequences and Series",
+              "titleTamil": "ஈருறுப்புத் தேற்றம், தொடர்வரிசைகள் மற்றும் தொடர்கள்"
+            },
+            {
+              "number": 6,
+              "title": "Two-Dimensional Analytical Geometry",
+              "titleTamil": "இருபரிமாண ஆயத்தொலை வடிவியல்"
+            }
+          ]
+        },
+        {
+          "id": "11-V2",
+          "name": "Volume 2",
+          "chapters": [
+            {
+              "number": 7,
+              "title": "Matrices and Determinants",
+              "titleTamil": "அணிகள் மற்றும் அணிக்கோவைகள்"
+            },
+            {
+              "number": 8,
+              "title": "Vector Algebra",
+              "titleTamil": "வெக்டர் இயற்கணிதம்"
+            },
+            {
+              "number": 9,
+              "title": "Differential Calculus - Limits and Continuity",
+              "titleTamil": "வகையீட்டுக் கணிதம் - எல்லைகள் மற்றும் தொடர்ச்சி"
+            },
+            {
+              "number": 10,
+              "title": "Differentiability and Methods of Differentiation",
+              "titleTamil": "வகையீட்டுத் தன்மை மற்றும் வகையீட்டு முறைகள்"
+            },
+            {
+              "number": 11,
+              "title": "Integral Calculus",
+              "titleTamil": "தொகையீட்டுக் கணிதம்"
+            },
+            {
+              "number": 12,
+              "title": "Introduction to Probability Theory",
+              "titleTamil": "நிகழ்தகவு கோட்பாட்டின் அறிமுகம்"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classLevel": 12,
+      "sections": [
+        {
+          "id": "12-V1",
+          "name": "Volume 1",
+          "chapters": [
+            {
+              "number": 1,
+              "title": "Applications of Matrices and Determinants",
+              "titleTamil": "அணிகள் மற்றும் அணிக்கோவைகளின் பயன்பாடுகள்"
+            },
+            {
+              "number": 2,
+              "title": "Complex Numbers",
+              "titleTamil": "கலப்பு எண்கள்"
+            },
+            {
+              "number": 3,
+              "title": "Theory of Equations",
+              "titleTamil": "சமன்பாடுகளின் கோட்பாடு"
+            },
+            {
+              "number": 4,
+              "title": "Inverse Trigonometric Functions",
+              "titleTamil": "நேர்மாறு முக்கோணவியல் சார்புகள்"
+            },
+            {
+              "number": 5,
+              "title": "Two-Dimensional Analytical Geometry-II",
+              "titleTamil": "இருபரிமாண ஆயத்தொலை வடிவியல்-II"
+            },
+            {
+              "number": 6,
+              "title": "Applications of Vector Algebra",
+              "titleTamil": "வெக்டர் இயற்கணிதத்தின் பயன்பாடுகள்"
+            }
+          ]
+        },
+        {
+          "id": "12-V2",
+          "name": "Volume 2",
+          "chapters": [
+            {
+              "number": 7,
+              "title": "Applications of Differential Calculus",
+              "titleTamil": "வகையீட்டுக் கணிதத்தின் பயன்பாடுகள்"
+            },
+            {
+              "number": 8,
+              "title": "Differentials and Partial Derivatives",
+              "titleTamil": "நுண்வேறுபாடுகள் மற்றும் பகுதி வகையீடுகள்"
+            },
+            {
+              "number": 9,
+              "title": "Applications of Integration",
+              "titleTamil": "தொகையீட்டின் பயன்பாடுகள்"
+            },
+            {
+              "number": 10,
+              "title": "Ordinary Differential Equations",
+              "titleTamil": "சாதாரண வகையீட்டு சமன்பாடுகள்"
+            },
+            {
+              "number": 11,
+              "title": "Probability Distributions",
+              "titleTamil": "நிகழ்தகவு பரவல்கள்"
+            },
+            {
+              "number": 12,
+              "title": "Discrete Mathematics",
+              "titleTamil": "தனித்த கணிதம்"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
