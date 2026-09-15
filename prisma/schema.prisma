@@ -1,0 +1,52 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model CurriculumClass {
+  id         String @id @default(cuid())
+  classLevel Int @unique
+  sections   CurriculumSection[]
+}
+
+model CurriculumSection {
+  id              String @id
+  name            String
+  classLevel      Int
+  curriculumClass CurriculumClass @relation(fields: [classLevel], references: [classLevel])
+  chapters        Chapter[]
+  exercises       Exercise[]
+}
+
+model Chapter {
+  id           String @id @default(cuid())
+  sectionId    String
+  number       Int
+  title        String
+  titleTamil   String
+  englishPages String?
+  tamilPages   String?
+  topics       Json?
+  section      CurriculumSection @relation(fields: [sectionId], references: [id])
+  exercises    Exercise[]
+  @@unique([sectionId, number])
+}
+
+model Exercise {
+  id             String @id
+  sectionId      String
+  chapterNumber  Int
+  exerciseNumber String
+  topicId        String?
+  lessonSlug     String?
+  practiceSetId  String?
+  pageEnglish    Int?
+  pageTamil      Int?
+  status         String @default("UNMAPPED")
+  section        CurriculumSection @relation(fields: [sectionId], references: [id])
+  @@unique([sectionId, chapterNumber, exerciseNumber])
+}
