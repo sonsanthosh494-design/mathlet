@@ -27,13 +27,14 @@ async function main() {
     const catalog = JSON.parse(fs.readFileSync(path.join(exerciseDir, file), 'utf8'));
     for (const exercise of catalog.exercises) {
       await db.exercise.upsert({
-        where: { sectionId_chapterNumber_exerciseNumber: { sectionId: exercise.sectionId, chapterNumber: exercise.chapterNumber, exerciseNumber: exercise.exerciseNumber } },
+        where: { sectionId_chapterNumber_exerciseNumber_language: { sectionId: exercise.sectionId, chapterNumber: exercise.chapterNumber, exerciseNumber: exercise.exerciseNumber, language: exercise.language } },
         update: { status: exercise.status },
         create: {
           id: exercise.id,
           sectionId: exercise.sectionId,
           chapterNumber: exercise.chapterNumber,
           exerciseNumber: exercise.exerciseNumber,
+          language: exercise.language,
           status: exercise.status
         }
       });
