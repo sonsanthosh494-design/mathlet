@@ -1,0 +1,320 @@
+{
+  "schemaVersion": "1.0",
+  "sourceLanguage": "ta",
+  "sourceFile": "Class_11_Mathematics_Tamil_Volume_2_2025_Edition-www.tntextbooks.in(2).pdf",
+  "sourceStatus": "Exercise labels extracted from uploaded PDF",
+  "exercises": [
+    {
+      "id": "11-V2-ta-EX-7.1",
+      "sectionId": "11-V2",
+      "chapterNumber": 7,
+      "exerciseNumber": "7.1",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-7.2",
+      "sectionId": "11-V2",
+      "chapterNumber": 7,
+      "exerciseNumber": "7.2",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-7.3",
+      "sectionId": "11-V2",
+      "chapterNumber": 7,
+      "exerciseNumber": "7.3",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-7.4",
+      "sectionId": "11-V2",
+      "chapterNumber": 7,
+      "exerciseNumber": "7.4",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-7.5",
+      "sectionId": "11-V2",
+      "chapterNumber": 7,
+      "exerciseNumber": "7.5",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-8.1",
+      "sectionId": "11-V2",
+      "chapterNumber": 8,
+      "exerciseNumber": "8.1",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-8.2",
+      "sectionId": "11-V2",
+      "chapterNumber": 8,
+      "exerciseNumber": "8.2",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-8.3",
+      "sectionId": "11-V2",
+      "chapterNumber": 8,
+      "exerciseNumber": "8.3",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-8.4",
+      "sectionId": "11-V2",
+      "chapterNumber": 8,
+      "exerciseNumber": "8.4",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-8.5",
+      "sectionId": "11-V2",
+      "chapterNumber": 8,
+      "exerciseNumber": "8.5",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-9.1",
+      "sectionId": "11-V2",
+      "chapterNumber": 9,
+      "exerciseNumber": "9.1",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-9.2",
+      "sectionId": "11-V2",
+      "chapterNumber": 9,
+      "exerciseNumber": "9.2",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-9.3",
+      "sectionId": "11-V2",
+      "chapterNumber": 9,
+      "exerciseNumber": "9.3",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-9.4",
+      "sectionId": "11-V2",
+      "chapterNumber": 9,
+      "exerciseNumber": "9.4",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-9.5",
+      "sectionId": "11-V2",
+      "chapterNumber": 9,
+      "exerciseNumber": "9.5",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-9.6",
+      "sectionId": "11-V2",
+      "chapterNumber": 9,
+      "exerciseNumber": "9.6",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-10.1",
+      "sectionId": "11-V2",
+      "chapterNumber": 10,
+      "exerciseNumber": "10.1",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-10.2",
+      "sectionId": "11-V2",
+      "chapterNumber": 10,
+      "exerciseNumber": "10.2",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-10.3",
+      "sectionId": "11-V2",
+      "chapterNumber": 10,
+      "exerciseNumber": "10.3",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-10.4",
+      "sectionId": "11-V2",
+      "chapterNumber": 10,
+      "exerciseNumber": "10.4",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-10.5",
+      "sectionId": "11-V2",
+      "chapterNumber": 10,
+      "exerciseNumber": "10.5",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.1",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.1",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.2",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.2",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.3",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.3",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.4",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.4",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.5",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.5",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.6",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.6",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.7",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.7",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.8",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.8",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.9",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.9",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.10",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.10",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.11",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.11",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.12",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.12",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-11.13",
+      "sectionId": "11-V2",
+      "chapterNumber": 11,
+      "exerciseNumber": "11.13",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-12.1",
+      "sectionId": "11-V2",
+      "chapterNumber": 12,
+      "exerciseNumber": "12.1",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-12.2",
+      "sectionId": "11-V2",
+      "chapterNumber": 12,
+      "exerciseNumber": "12.2",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-12.3",
+      "sectionId": "11-V2",
+      "chapterNumber": 12,
+      "exerciseNumber": "12.3",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-12.4",
+      "sectionId": "11-V2",
+      "chapterNumber": 12,
+      "exerciseNumber": "12.4",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "11-V2-ta-EX-12.5",
+      "sectionId": "11-V2",
+      "chapterNumber": 12,
+      "exerciseNumber": "12.5",
+      "language": "ta",
+      "status": "VERIFIED_LABEL"
+    }
+  ]
+}
