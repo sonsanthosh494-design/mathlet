@@ -49,5 +49,6 @@ model Exercise {
   pageTamil      Int?
   status         String @default("UNMAPPED")
   section        CurriculumSection @relation(fields: [sectionId], references: [id])
+  chapter        Chapter @relation(fields: [sectionId, chapterNumber], references: [sectionId, number])
   @@unique([sectionId, chapterNumber, exerciseNumber, language])
 }
