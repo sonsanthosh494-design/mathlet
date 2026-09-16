@@ -47,6 +47,11 @@ model Exercise {
   practiceSetId  String?
   pageEnglish    Int?
   pageTamil      Int?
+  questionEnglish String?
+  questionTamil   String?
+  solutionEnglish String?
+  solutionTamil   String?
+  contentStatus   String @default("PENDING_CONTENT")
   status         String @default("UNMAPPED")
   section        CurriculumSection @relation(fields: [sectionId], references: [id])
   chapter        Chapter @relation(fields: [sectionId, chapterNumber], references: [sectionId, number])
