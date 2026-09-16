@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0",
+  "sourceLanguage": "en",
+  "sourceFile": "Class_6_Mathematics_English_Mathematics_-_Term_3_-_2024_Edition-www.tntextbooks.in(1).pdf",
+  "sourceStatus": "Exercise labels extracted from uploaded PDF",
+  "exercises": [
+    {
+      "id": "6-T3-en-EX-1.1",
+      "sectionId": "6-T3",
+      "chapterNumber": 1,
+      "exerciseNumber": "1.1",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-1.2",
+      "sectionId": "6-T3",
+      "chapterNumber": 1,
+      "exerciseNumber": "1.2",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-2.1",
+      "sectionId": "6-T3",
+      "chapterNumber": 2,
+      "exerciseNumber": "2.1",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-2.2",
+      "sectionId": "6-T3",
+      "chapterNumber": 2,
+      "exerciseNumber": "2.2",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-3.1",
+      "sectionId": "6-T3",
+      "chapterNumber": 3,
+      "exerciseNumber": "3.1",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-3.2",
+      "sectionId": "6-T3",
+      "chapterNumber": 3,
+      "exerciseNumber": "3.2",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-4.1",
+      "sectionId": "6-T3",
+      "chapterNumber": 4,
+      "exerciseNumber": "4.1",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-4.2",
+      "sectionId": "6-T3",
+      "chapterNumber": 4,
+      "exerciseNumber": "4.2",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-5.1",
+      "sectionId": "6-T3",
+      "chapterNumber": 5,
+      "exerciseNumber": "5.1",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    },
+    {
+      "id": "6-T3-en-EX-5.2",
+      "sectionId": "6-T3",
+      "chapterNumber": 5,
+      "exerciseNumber": "5.2",
+      "language": "en",
+      "status": "VERIFIED_LABEL"
+    }
+  ]
+}
