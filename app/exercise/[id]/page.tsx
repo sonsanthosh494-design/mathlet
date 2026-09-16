@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { db } from "../../lib/prisma";
+import { db } from "../../../lib/prisma";
 
 export default async function ExercisePage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
