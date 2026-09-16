@@ -16,7 +16,7 @@ export default async function ChapterPage({ params }: { params: Promise<{ classL
 
   let exercises: { id: string; exerciseNumber: string; language: string; status: string }[] = [];
   try {
-    exercises = await db.exercise.findMany({ where: { sectionId, chapterNumber }, orderBy: { exerciseNumber: "asc" }, select: { id: true, exerciseNumber: true, language: true, status: true } });
+    exercises = await db.exercise.findMany({ where: { sectionId, chapterNumber: Number(chapterNumber) }, orderBy: { exerciseNumber: "asc" }, select: { id: true, exerciseNumber: true, language: true, status: true } });
   } catch { /* Keep the page usable while Neon is unavailable. */ }
 
   return <main className="shell">
