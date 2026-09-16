@@ -41,7 +41,23 @@ async function main() {
       exerciseCount++;
     }
   }
-  console.log(`Seeded ${exerciseCount} exercise-language records.`);
+  const contentDir = path.join(process.cwd(), 'curriculum', 'content');
+  if (fs.existsSync(contentDir)) {
+    for (const file of fs.readdirSync(contentDir).filter((name) => name.endsWith('.json'))) {
+      const content = JSON.parse(fs.readFileSync(path.join(contentDir, file), 'utf8'));
+      await db.exercise.updateMany({
+        where: { sectionId: content.sectionId, chapterNumber: content.chapterNumber, exerciseNumber: content.exerciseNumber, language: content.language },
+        data: {
+          questionEnglish: content.questionEnglish ?? null,
+          questionTamil: content.questionTamil ?? null,
+          solutionEnglish: content.solutionEnglish ?? null,
+          solutionTamil: content.solutionTamil ?? null,
+          contentStatus: content.contentStatus ?? 'PENDING_CONTENT'
+        }
+      });
+    }
+  }
+  console.log(`Seeded ${exerciseCount} exercise-language records and applied content files.`);
 }
 
 main().catch(console.error).finally(() => db.$disconnect());
