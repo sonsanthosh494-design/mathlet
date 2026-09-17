@@ -124,19 +124,19 @@
     },
     {
       "questionNumber": "12",
-      "questionType": "APPLICATION",
+      "questionType": "MCQ",
       "translations": {
-        "en": "Tamil Nadu has about twenty-six thousand three hundred forty-five square kilometre of forest land. Write the number mentioned in the statement in the Indian System and International System.",
-        "ta": "தமிழ்நாட்டில் சுமார் இருபத்து ஆறாயிரத்து முந்நூற்று நாற்பத்தைந்து சதுர கிலோமீட்டர் காடுகள் உள்ளன. இந்த எண்ணை இந்திய மற்றும் பன்னாட்டு முறைகளில் எழுதுக."
+        "en": "The successor of 10 million is\n(a) 1000001\n(b) 10000001\n(c) 9999999\n(d) 100001",
+        "ta": "10 மில்லியனின் தொடரி\n(அ) 1000001\n(ஆ) 10000001\n(இ) 9999999\n(ஈ) 100001"
       },
       "blocks": []
     },
     {
       "questionNumber": "13",
-      "questionType": "APPLICATION",
+      "questionType": "MCQ",
       "translations": {
-        "en": "The number of employees in the Indian Railways is about 10 lakh. Write this in the International System of numeration.",
-        "ta": "இந்தியத் தொடர்வண்டியில் சுமார் 10 இலட்சம் ஊழியர்கள் உள்ளனர். இதைப் பன்னாட்டு எண் முறையில் எழுதுக."
+        "en": "The difference between the successor and the predecessor of 99999 is\n(a) 90000\n(b) 1\n(c) 2\n(d) 99001",
+        "ta": "99999 இன் தொடரி மற்றும் முன்னியின் வேறுபாடு\n(அ) 90000\n(ஆ) 1\n(இ) 2\n(ஈ) 99001"
       },
       "blocks": []
     },
@@ -144,8 +144,8 @@
       "questionNumber": "14",
       "questionType": "MCQ",
       "translations": {
-        "en": "1 billion is equal to:\n(a) 100 crore\n(b) 100 million\n(c) 100 lakh\n(d) 10000 lakh",
-        "ta": "1 பில்லியன் என்பது:\n(அ) 100 கோடி\n(ஆ) 100 மில்லியன்\n(இ) 100 இலட்சம்\n(ஈ) 10000 இலட்சம்"
+        "en": "1 billion is equal to\n(a) 100 crore\n(b) 100 million\n(c) 100 lakh\n(d) 10000 lakh",
+        "ta": "1 பில்லியன் என்பது\n(அ) 100 கோடி\n(ஆ) 100 மில்லியன்\n(இ) 100 இலட்சம்\n(ஈ) 10000 இலட்சம்"
       },
       "blocks": []
     },
@@ -153,26 +153,8 @@
       "questionNumber": "15",
       "questionType": "MCQ",
       "translations": {
-        "en": "The successor of 10 million is:\n(a) 1000001\n(b) 10000001\n(c) 9999999\n(d) 100001",
-        "ta": "10 மில்லியனின் தொடரி:\n(அ) 1000001\n(ஆ) 10000001\n(இ) 9999999\n(ஈ) 100001"
-      },
-      "blocks": []
-    },
-    {
-      "questionNumber": "16",
-      "questionType": "MCQ",
-      "translations": {
-        "en": "The difference between the successor and predecessor of 99999 is:\n(a) 90000\n(b) 1\n(c) 2\n(d) 99001",
-        "ta": "99999 இன் தொடரிக்கும் முன்னிக்கும் இடையிலான வித்தியாசம்:\n(அ) 90000\n(ஆ) 1\n(இ) 2\n(ஈ) 99001"
-      },
-      "blocks": []
-    },
-    {
-      "questionNumber": "17",
-      "questionType": "MCQ",
-      "translations": {
-        "en": "The expanded form of the number 6,70,905 is:\n(a) 6 × 10000 + 7 × 1000 + 9 × 100 + 5 × 1\n(b) 6 × 10000 + 7 × 1000 + 0 × 100 + 9 × 100 + 0 × 10 + 5 × 1\n(c) 6 × 1000000 + 7 × 10000 + 0 × 1000 + 9 × 100 + 0 × 10 + 5 × 1\n(d) 6 × 100000 + 7 × 10000 + 0 × 1000 + 9 × 100 + 0 × 10 + 5 × 1",
-        "ta": "6,70,905 என்ற எண்ணின் விரிவாக்கம்:\n(அ) 6 × 10000 + 7 × 1000 + 9 × 100 + 5 × 1\n(ஆ) 6 × 10000 + 7 × 1000 + 0 × 100 + 9 × 100 + 0 × 10 + 5 × 1\n(இ) 6 × 1000000 + 7 × 10000 + 0 × 1000 + 9 × 100 + 0 × 10 + 5 × 1\n(ஈ) 6 × 100000 + 7 × 10000 + 0 × 1000 + 9 × 100 + 0 × 10 + 5 × 1"
+        "en": "The expanded form of the number 6,70,905 is\n(a) 6 × 10000 + 7 × 1000 + 9 × 100 + 5 × 1\n(b) 6 × 10000 + 7 × 1000 + 0 × 100 + 9 × 100 + 0 × 10 + 5 × 1\n(c) 6 × 1000000 + 7 × 10000 + 0 × 1000 + 9 × 100 + 0 × 10 + 5 × 1\n(d) 6 × 100000 + 7 × 10000 + 0 × 1000 + 9 × 100 + 0 × 10 + 5 × 1",
+        "ta": "6,70,905 என்ற எண்ணின் விரிவாக்கம்\n(அ) 6 × 10000 + 7 × 1000 + 9 × 100 + 5 × 1\n(ஆ) 6 × 10000 + 7 × 1000 + 0 × 100 + 9 × 100 + 0 × 10 + 5 × 1\n(இ) 6 × 1000000 + 7 × 10000 + 0 × 1000 + 9 × 100 + 0 × 10 + 5 × 1\n(ஈ) 6 × 100000 + 7 × 10000 + 0 × 1000 + 9 × 100 + 0 × 10 + 5 × 1"
       },
       "blocks": []
     }
