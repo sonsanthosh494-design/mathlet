@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
-import { db } from "../../../../lib/prisma";
-import { getSessionUserId } from "../../../../lib/auth";
+import { db } from "../../../lib/prisma";
+import { getSessionUserId } from "../../../lib/auth";
 
 export async function GET() {
   const userId = await getSessionUserId();
