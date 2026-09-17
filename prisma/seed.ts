@@ -54,7 +54,9 @@ async function main() {
           questionTamil: item.questionTamil ?? null,
           solutionEnglish: item.solutionEnglish ?? null,
           solutionTamil: item.solutionTamil ?? null,
-          contentStatus: item.contentStatus ?? 'PENDING_CONTENT'
+          contentStatus: item.contentStatus ?? 'PENDING_CONTENT',
+            contentBlocks: item.contentBlocks ?? undefined,
+            sourcePage: item.sourcePage ?? undefined
         }
         });
       }
