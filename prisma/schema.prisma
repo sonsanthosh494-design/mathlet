@@ -55,5 +55,25 @@ model Exercise {
   status         String @default("UNMAPPED")
   section        CurriculumSection @relation(fields: [sectionId], references: [id])
   chapter        Chapter @relation(fields: [sectionId, chapterNumber], references: [sectionId, number])
+  progress       ExerciseProgress[]
   @@unique([sectionId, chapterNumber, exerciseNumber, language])
+}
+
+model Learner {
+  id        String             @id @default(cuid())
+  name      String?
+  createdAt DateTime           @default(now())
+  progress  ExerciseProgress[]
+}
+
+model ExerciseProgress {
+  id          String    @id @default(cuid())
+  learnerId   String
+  exerciseId  String
+  answer      String?
+  status      String    @default("STARTED")
+  completedAt DateTime?
+  learner     Learner   @relation(fields: [learnerId], references: [id], onDelete: Cascade)
+  exercise    Exercise  @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+  @@unique([learnerId, exerciseId])
 }
