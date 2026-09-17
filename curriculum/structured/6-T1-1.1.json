@@ -8,8 +8,8 @@
       "questionNumber": "1",
       "questionType": "FILL_BLANK",
       "translations": {
-        "en": "Fill in the blanks: (i) The smallest 7 digit number is _____. (ii) The largest 8 digit number is _____. (iii) Find the place value of 5 in 7005380. (iv) Write the expanded form of 76,70,905.",
-        "ta": "கோடிட்ட இடங்களை நிரப்புக: (i) மிகச் சிறிய ஏழிலக்க எண் _____. (ii) மிகப் பெரிய எட்டு இலக்க எண் _____. (iii) 7005380 இல் 5 இன் இடமதிப்பைக் காண்க. (iv) 76,70,905 இன் விரிவாக்கத்தை எழுதுக."
+        "en": "Fill in the blanks.\n(i) The smallest 7 digit number is _________.\n(ii) The largest 8 digit number is _________.\n(iii) The place value of 5 in 7005380 is _________.\n(iv) The expanded form of the number 76,70,905 is _________.",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) மிகச் சிறிய ஏழிலக்க எண் _________.\n(ii) மிகப் பெரிய எட்டு இலக்க எண் _________.\n(iii) 7005380 என்ற எண்ணில் 5 இன் இடமதிப்பு _________.\n(iv) 76,70,905 என்ற எண்ணின் விரிவாக்கம் _________."
       },
       "blocks": [
         {
@@ -26,8 +26,8 @@
       "questionNumber": "2",
       "questionType": "TRUE_FALSE",
       "translations": {
-        "en": "Say True or False: (i) The successor of a one-digit number is always one digit. (ii) The predecessor of a three-digit number is always three or four digits.",
-        "ta": "சரியா, தவறா எனக் கூறுக: (i) ஓரிலக்க எண்ணின் தொடரி எப்போதும் ஓரிலக்கமாகும். (ii) மூவிலக்க எண்ணின் முன்னி எப்போதும் மூன்று அல்லது நான்கு இலக்கமாகும்."
+        "en": "Say True or False.\n(i) Successor of a one digit number is always a one digit number.\n(ii) Predecessor of a 3-digit number is always a 3 or 4-digit number.\n(iii) In the Indian System of Numeration the number 67999037 is written as 6,79,99,037.\n(iv) 88,888 = 8 × 10000 + 8 × 100 + 8 × 10 + 8 × 1.",
+        "ta": "சரியா, தவறா எனக் கூறுக.\n(i) ஓரிலக்க எண்ணின் தொடரி எப்போதும் ஓரிலக்க எண்ணாகும்.\n(ii) மூவிலக்க எண்ணின் முன்னி எப்போதும் மூன்று அல்லது நான்கு இலக்க எண்ணாகும்.\n(iii) இந்திய முறையில் 67999037 என்ற எண்ணை 6,79,99,037 என எழுதுகிறோம்.\n(iv) 88,888 = 8 × 10000 + 8 × 100 + 8 × 10 + 8 × 1."
       },
       "blocks": []
     },
@@ -35,7 +35,7 @@
       "questionNumber": "3",
       "questionType": "SHORT_ANSWER",
       "translations": {
-        "en": "How many ten-thousands are there in the smallest 6 digit number?",
+        "en": "How many ten thousands are there in the smallest 6 digit number?",
         "ta": "மிகச் சிறிய ஆறிலக்க எண்ணில் எத்தனை பத்தாயிரங்கள் உள்ளன?"
       },
       "blocks": [
@@ -49,8 +49,8 @@
       "questionNumber": "4",
       "questionType": "PLACE_VALUE",
       "translations": {
-        "en": "Observe the commas and write the place value of 7: (i) 56,74,56,345 (ii) 567,456,345.",
-        "ta": "கீழ்கண்ட எண்களில் 7 இன் இடமதிப்பை எழுதுக: (i) 56,74,56,345 (ii) 567,456,345."
+        "en": "Observe the commas and write down the place value of 7.\n(i) 56,74,56,345\n(ii) 567,456,345",
+        "ta": "கீழ்கண்ட எண்களில் 7 இன் இடமதிப்பை எழுதுக.\n(i) 56,74,56,345\n(ii) 567,456,345"
       },
       "blocks": [
         {
@@ -63,8 +63,8 @@
       "questionNumber": "5",
       "questionType": "FORMAT_NUMBER",
       "translations": {
-        "en": "Write 347056, 7345671, 634567105 and 1234567890 in the International System using commas.",
-        "ta": "347056, 7345671, 634567105 மற்றும் 1234567890 ஆகியவற்றை பன்னாட்டு முறையில் காற்புள்ளிகளுடன் எழுதுக."
+        "en": "Write the following numbers in the International System by using commas.\n(i) 347056\n(ii) 7345671\n(iii) 634567105\n(iv) 1234567890",
+        "ta": "கீழ்கண்ட எண்களை பன்னாட்டு முறையில் காற்புள்ளிகளைப் பயன்படுத்தி எழுதுக.\n(i) 347056\n(ii) 7345671\n(iii) 634567105\n(iv) 1234567890"
       },
       "blocks": []
     },
@@ -72,7 +72,7 @@
       "questionNumber": "6",
       "questionType": "FORMAT_NUMBER",
       "translations": {
-        "en": "Write the largest six-digit number and place commas in the Indian and International Systems.",
+        "en": "Write the largest six digit number and put commas in the Indian and the International Systems.",
         "ta": "மிகப்பெரிய ஆறிலக்க எண்ணை எழுதி, இந்திய மற்றும் பன்னாட்டு முறைகளில் காற்புள்ளி இடுக."
       },
       "blocks": []
@@ -81,8 +81,8 @@
       "questionNumber": "7",
       "questionType": "NUMBER_NAMES",
       "translations": {
-        "en": "Write the number names of 75,32,105 and 9,75,63,453 in the Indian System.",
-        "ta": "75,32,105 மற்றும் 9,75,63,453 ஆகிய எண்களின் எண் பெயர்களை இந்திய முறையில் எழுதுக."
+        "en": "Write the number names of the following numerals in the Indian System.\n(i) 75,32,105\n(ii) 9,75,63,453",
+        "ta": "கீழ்கண்ட எண்களின் எண் பெயர்களை இந்திய முறையில் எழுதுக.\n(i) 75,32,105\n(ii) 9,75,63,453"
       },
       "blocks": []
     },
@@ -90,8 +90,8 @@
       "questionNumber": "8",
       "questionType": "NUMBER_NAMES",
       "translations": {
-        "en": "Write the number names of 345,678; 8,343,710 and 103,456,789 in the International System.",
-        "ta": "345,678; 8,343,710 மற்றும் 103,456,789 ஆகியவற்றின் எண் பெயர்களை பன்னாட்டு முறையில் எழுதுக."
+        "en": "Write the number names in words using the International System.\n(i) 345,678\n(ii) 8,343,710\n(iii) 103,456,789",
+        "ta": "பன்னாட்டு முறையில் எண் பெயர்களை எழுதுக.\n(i) 345,678\n(ii) 8,343,710\n(iii) 103,456,789"
       },
       "blocks": []
     },
@@ -99,8 +99,8 @@
       "questionNumber": "9",
       "questionType": "NUMERALS",
       "translations": {
-        "en": "Write the numerals for the given number names in Indian and International systems.",
-        "ta": "கொடுக்கப்பட்ட எண் பெயர்களை இந்திய மற்றும் பன்னாட்டு முறைகளில் எண்ணுருக்களாக எழுதுக."
+        "en": "Write the number name in numerals.\n(i) Two crore thirty lakh fifty one thousand nine hundred eighty.\n(ii) Sixty six million three hundred forty five thousand twenty seven.\n(iii) Seven hundred eighty nine million two hundred thirteen thousand four hundred fifty six.",
+        "ta": "எண் பெயர்களை எண்ணுருக்களாக எழுதுக.\n(i) இரண்டு கோடியே முப்பது இலட்சத்து ஐம்பத்து ஓராயிரத்து தொள்ளாயிரத்து எண்பது.\n(ii) அறுபத்து ஆறு மில்லியன் முன்னூற்று நாற்பத்தைந்து ஆயிரத்து இருபத்து ஏழு.\n(iii) எழுநூற்று எண்பத்தொன்பது மில்லியன் இருநூற்று பதிமூன்றாயிரத்து நானூற்று ஐம்பத்து ஆறு."
       },
       "blocks": []
     },
@@ -108,8 +108,8 @@
       "questionNumber": "10",
       "questionType": "APPLICATION",
       "translations": {
-        "en": "Tamil Nadu has about 26,345 square kilometres of forest land. Write this number in both systems.",
-        "ta": "தமிழ்நாட்டில் சுமார் 26,345 சதுர கிலோமீட்டர் காடுகள் உள்ளன. இதை இரு எண் முறைகளிலும் எழுதுக."
+        "en": "Tamil Nadu has about twenty six thousand three hundred forty five square kilometre of Forest land. Write the number mentioned in the Indian System and International System.",
+        "ta": "தமிழ்நாட்டில் சுமார் இருபத்து ஆறாயிரத்து முந்நூற்று நாற்பத்து ஐந்து சதுர கிலோமீட்டர் காடுகள் உள்ளன. இதை இந்திய மற்றும் பன்னாட்டு எண் முறைகளில் எழுதுக."
       },
       "blocks": []
     },
@@ -117,8 +117,8 @@
       "questionNumber": "11",
       "questionType": "APPLICATION",
       "translations": {
-        "en": "The Indian Railways has about ten lakhs of employees. Write this in the International System.",
-        "ta": "இந்தியத் தொடர்வண்டியில் சுமார் பத்து இலட்சம் ஊழியர்கள் உள்ளனர். இதைப் பன்னாட்டு முறையில் எழுதுக."
+        "en": "The number of employees in the Indian Railways is about ten lakhs. Write this in the International System of numeration.",
+        "ta": "இந்தியத் தொடர்வண்டிப் போக்குவரத்தில் சுமார் பத்து இலட்சம் ஊழியர்கள் உள்ளனர். இதைப் பன்னாட்டு எண் முறையில் எழுதுக."
       },
       "blocks": []
     },
@@ -126,8 +126,8 @@
       "questionNumber": "12",
       "questionType": "MCQ",
       "translations": {
-        "en": "The successor of 10 million is: (a) 1000001 (b) 10000001 (c) 9999999 (d) 100001.",
-        "ta": "10 மில்லியனின் தொடரி: (அ) 1000001 (ஆ) 10000001 (இ) 9999999 (ஈ) 100001."
+        "en": "The successor of 10 million is:\n(a) 1000001\n(b) 10000001\n(c) 9999999\n(d) 100001",
+        "ta": "10 மில்லியனின் தொடரி:\n(அ) 1000001\n(ஆ) 10000001\n(இ) 9999999\n(ஈ) 100001"
       },
       "blocks": []
     }
