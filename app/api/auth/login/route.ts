@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import bcrypt from "bcryptjs";
 import { SignJWT } from "jose";
-import { db } from "../../../lib/prisma";
+import { db } from "../../../../lib/prisma";
 
 export async function POST(request: Request) {
   const { email, password } = await request.json();
