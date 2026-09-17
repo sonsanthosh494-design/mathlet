@@ -8,7 +8,8 @@
     "start": "next start",
     "prisma:generate": "prisma generate",
     "prisma:seed": "tsx prisma/seed.ts",
-    "content:import": "node scripts/import-structured-content.mjs"
+    "content:import": "node scripts/import-structured-content.mjs",
+    "content:validate": "node scripts/validate-structured-content.mjs"
   },
   "dependencies": {
     "@prisma/client": "6.19.0",
