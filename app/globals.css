@@ -21,3 +21,5 @@
 .profile-form{display:grid;gap:10px}.profile-form input{border:1px solid var(--line);border-radius:6px;padding:13px;background:#fafcf4;color:var(--ink);font:14px Manrope,Arial,sans-serif}
 
 .refresh-button{border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--muted);padding:9px 12px;cursor:pointer;font-size:12px;margin-bottom:20px}.refresh-button:hover{border-color:#9fb77a;color:var(--ink)}
+
+.content-blocks{line-height:1.8}.content-blocks p{white-space:pre-wrap}.given-block{background:#f0f5e7;border-left:3px solid var(--green);padding:12px 15px}.formula-block{margin:18px 0;padding:16px;text-align:center;background:#f0f5e7;border-radius:7px;font:20px "DM Mono",monospace;overflow:auto}.diagram-block{text-align:center;margin:24px 0}.diagram-block img{max-width:100%;height:auto;border-radius:6px}.diagram-block figcaption{color:var(--muted);font-size:12px;margin-top:7px}.steps-block{padding-left:24px}.steps-block li{padding:7px 0}
