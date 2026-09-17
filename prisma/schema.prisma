@@ -52,6 +52,8 @@ model Exercise {
   solutionEnglish String?
   solutionTamil   String?
   contentStatus   String @default("PENDING_CONTENT")
+  contentBlocks   Json?
+  sourcePage      Int?
   status         String @default("UNMAPPED")
   section        CurriculumSection @relation(fields: [sectionId], references: [id])
   chapter        Chapter @relation(fields: [sectionId, chapterNumber], references: [sectionId, number])
