@@ -36,7 +36,8 @@ for (const file of class6) {
       contentStatus: "VERIFIED_QUESTION_TEXT",
       questionEnglish: language === "en" ? text.slice(start, end).trim() : null,
       questionTamil: language === "ta" ? text.slice(start, end).trim() : null,
-      sourceFile: file
+      sourceFile: file,
+      contentBlocks: [{ type: "text", text: text.slice(start, end).trim() }]
     });
   }
   const output = { sourceLanguage: language, sourceFile: file, exercises };
