@@ -10,7 +10,7 @@ export default async function ExercisePage({ params }: { params: Promise<{ id: s
   const language = exercise.language === "ta" ? "ta" : "en";
   const languageName = language === "ta" ? "தமிழ்" : "English";
   const canonical = language === "en" ? exercise : await db.exercise.findFirst({ where: { sectionId: exercise.sectionId, chapterNumber: exercise.chapterNumber, exerciseNumber: exercise.exerciseNumber, language: "en" } });
-  const questions = canonical ? await db.question.findMany({ where: { exerciseId: canonical.id }, include: { translations: true, blocks: { where: { language }, orderBy: { orderIndex: "asc" } } }, orderBy: { orderIndex: "asc" } }) : [];
+  const questions = canonical ? await db.question.findMany({ where: { exerciseId: canonical.id, NOT: { questionNumber: "ALL" } }, include: { translations: true, blocks: { where: { language }, orderBy: { orderIndex: "asc" } } }, orderBy: { orderIndex: "asc" } }) : [];
   return <main className="shell">
     <nav className="nav"><Link className="brand" href="/"><span className="brand-mark">∑</span><span>mathlet</span></Link><span className="nav-note">{languageName} · Exercise {exercise.exerciseNumber}</span></nav>
     <section className="exercise-detail">
