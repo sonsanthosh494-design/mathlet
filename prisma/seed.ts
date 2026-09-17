@@ -43,7 +43,7 @@ async function main() {
   }
   const contentDir = path.join(process.cwd(), 'curriculum', 'content');
   if (fs.existsSync(contentDir)) {
-    for (const file of fs.readdirSync(contentDir).filter((name) => name.endsWith('.json'))) {
+    for (const file of fs.readdirSync(contentDir).filter((name) => name.endsWith('.json')).sort((a, b) => Number(a.includes('-content')) - Number(b.includes('-content')))) {
       const content = JSON.parse(fs.readFileSync(path.join(contentDir, file), 'utf8'));
       const items = Array.isArray(content.exercises) ? content.exercises : [content];
       for (const item of items) {
