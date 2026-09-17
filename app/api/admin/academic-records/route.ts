@@ -12,7 +12,7 @@ async function requireAdmin() {
 export async function GET() {
   if (!(await requireAdmin())) return NextResponse.json({ error: "Admin access required." }, { status: 403 });
   const records = await db.academicRecord.findMany({ include: { learner: { select: { name: true, user: { select: { email: true } } } } }, orderBy: { requestedAt: "desc" } });
-  return NextResponse.json({ records });
+  return NextResponse.json({ records }, { headers: { "Cache-Control": "no-store" } });
 }
 
 export async function PATCH(request: Request) {
