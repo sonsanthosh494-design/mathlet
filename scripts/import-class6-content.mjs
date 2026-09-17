@@ -21,8 +21,11 @@ for (const file of class6) {
   const pattern = language === "en" ? /Exercises?\s+(\d+\.\d+)/gi : /பயிற்சி\s+(\d+\.\d+)/g;
   const hits = [...text.matchAll(pattern)];
   const exercises = [];
+  const seen = new Set();
   for (let i = 0; i < hits.length; i++) {
     const exerciseNumber = hits[i][1];
+    if (seen.has(exerciseNumber)) continue;
+    seen.add(exerciseNumber);
     const start = hits[i].index;
     const end = i + 1 < hits.length ? hits[i + 1].index : text.length;
     exercises.push({
