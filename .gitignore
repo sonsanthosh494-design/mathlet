@@ -1,0 +1,22 @@
+# Environment
+.env
+.env.local
+.env*.local
+
+# Next.js
+.next/
+out/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# Prisma generated
+node_modules/.prisma/
+
+# OS
+.DS_Store
+Thumbs.db
