@@ -58,6 +58,7 @@ model Exercise {
   section        CurriculumSection @relation(fields: [sectionId], references: [id])
   chapter        Chapter @relation(fields: [sectionId, chapterNumber], references: [sectionId, number])
   progress       ExerciseProgress[]
+  questions      Question[]
   @@unique([sectionId, chapterNumber, exerciseNumber, language])
 }
 
@@ -106,4 +107,47 @@ model AcademicRecord {
   reviewedAt   DateTime?
   learner      Learner  @relation(fields: [learnerId], references: [id], onDelete: Cascade)
   @@unique([learnerId, academicYear])
+}
+
+
+model Question {
+  id             String              @id @default(cuid())
+  exerciseId     String
+  questionNumber String
+  questionType   String              @default("PROBLEM")
+  orderIndex     Int                 @default(0)
+  sourcePage     Int?
+  reviewStatus   String              @default("RAW")
+  exercise       Exercise            @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+  translations   QuestionTranslation[]
+  blocks         ContentBlock[]
+  @@unique([exerciseId, questionNumber])
+  @@index([reviewStatus])
+}
+
+model QuestionTranslation {
+  id              String   @id @default(cuid())
+  questionId      String
+  language        String
+  prompt          String
+  given           String?
+  answer          String?
+  solutionSummary String?
+  question        Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  @@unique([questionId, language])
+}
+
+model ContentBlock {
+  id          String   @id @default(cuid())
+  questionId  String
+  language    String
+  orderIndex  Int
+  blockType   String
+  text        String?
+  latex       String?
+  assetUrl    String?
+  assetAlt    String?
+  metadata    Json?
+  question    Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  @@unique([questionId, language, orderIndex])
 }
