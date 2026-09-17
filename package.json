@@ -13,7 +13,9 @@
     "@prisma/client": "6.19.0",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "bcryptjs": "latest",
+    "jose": "latest"
   },
   "devDependencies": {
     "@types/node": "22.20.3",
