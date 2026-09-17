@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 1,
+  "exerciseNumber": "1.2",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "COMPARISON",
+      "translations": {
+        "en": "Fill in the blanks with > or < or =.\n(i) 48792 _____ 48972\n(ii) 1248654 _____ 1246854\n(iii) 658794 _____ 658794",
+        "ta": "கோடிட்ட இடங்களில் > அல்லது < அல்லது = குறியீடுகளைக் கொண்டு நிரப்புக.\n(i) 48792 _____ 48972\n(ii) 1248654 _____ 1246854\n(iii) 658794 _____ 658794"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say True or False.\n(i) The difference between the smallest number of seven digits and the largest number of six digits is 10.\n(ii) The largest 4-digit number formed by the digits 8, 6, 0, 9 using each digit only once is 9086.\n(iii) The total number of 4 digit numbers is 9000.",
+        "ta": "சரியா, தவறா எனக் கூறுக.\n(i) மிகச் சிறிய ஏழு இலக்க எண்ணிற்கும் மிகப் பெரிய ஆறு இலக்க எண்ணிற்கும் இடையே உள்ள வேறுபாடு 10 ஆகும்.\n(ii) 8, 6, 0, 9 என்ற எண்களை ஒரே ஒரு முறை மட்டும் பயன்படுத்திக் கிடைக்கப்பெறும் மிகப் பெரிய 4 இலக்க எண் 9086 ஆகும்.\n(iii) நான்கு இலக்க எண்களின் மொத்த எண்ணிக்கை 9000."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "COMPARISON",
+      "translations": {
+        "en": "Of the numbers 1386787215, 137698890, 86720560, which one is the largest? Which one is the smallest?",
+        "ta": "1386787215, 137698890, 86720560 என்ற எண்களில் எந்த எண் மிகப் பெரியது? எந்த எண் மிகச் சிறியது?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "ORDERING",
+      "translations": {
+        "en": "Arrange the following numbers in the descending order:\n128435, 10835, 21354, 6348, 25840",
+        "ta": "கீழே கொடுக்கப்பட்டுள்ளவற்றை இறங்கு வரிசையில் எழுதுக.\n128435, 10835, 21354, 6348, 25840"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PLACE_VALUE",
+      "translations": {
+        "en": "Write any eight digit number with 6 in ten lakhs place and 9 in ten thousand place.",
+        "ta": "பத்து லட்சம் இடத்தில் 6 என்ற எண்ணும் பத்தாயிரம் இடத்தில் 9 என்ற எண்ணும் உள்ளவாறு ஏதேனும் ஓர் எட்டு இலக்க எண்ணை எழுதுக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "FORMING_NUMBERS",
+      "translations": {
+        "en": "Rajan writes a 3-digit number, using the digits 4, 7 and 9. What are the possible numbers he can write?",
+        "ta": "இராஜன் 4, 7 மற்றும் 9 என்ற இலக்கங்களைப் பயன்படுத்தி 3 இலக்க எண்களை எழுதுகிறான். எத்தனை எண்களை அவனால் எழுத முடியும்?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "FORMING_NUMBERS",
+      "translations": {
+        "en": "The password to access my ATM card includes the digits 9, 4, 6 and 8. It is the smallest 4 digit even number. Find the password of my ATM Card.",
+        "ta": "என்னுடைய பணம் பெறும் அட்டையின் (ATM அட்டை) கடவுச்சொல் 9, 4, 6 மற்றும் 8 ஆகிய இலக்கங்களைக் கொண்டது. இது மிகச் சிறிய 4 இலக்க இரட்டை எண் ஆகும். எனது ATM அட்டையின் கடவுச்சொல்லைக் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "FORMING_NUMBERS",
+      "translations": {
+        "en": "Postal Index Number consists of six digits. The first three digits are 6, 3, and 1. Make the largest and the smallest Postal Index Number by using the digits 0, 3 and 6, each only once.",
+        "ta": "அஞ்சலகக் குறியீட்டு எண் 6 இலக்கங்களைக் கொண்டது. இதன் முதல் 3 இலக்க எண்கள் 6, 3 மற்றும் 1 ஆகும். மேலும் 0, 3 மற்றும் 6 என்ற மூன்று இலக்கங்களை ஒரு முறை மட்டுமே பயன்படுத்தி மிகப் பெரிய மற்றும் மிகச் சிறிய அஞ்சலகக் குறியீட்டு எண்களை அமைக்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The heights (in metres) of the mountains in Tamil Nadu are as follows: Doddabetta 2637, Mahendragiri 1647, Aanaimudi 2695, Velliangiri 1778.\n(i) Which is the highest mountain listed above?\n(ii) Order the mountains from the highest to the lowest.\n(iii) What is the difference between the heights of the mountains Aanaimudi and Mahendragiri?",
+        "ta": "தமிழ்நாட்டிலுள்ள மலைகளின் உயரங்கள் (மீட்டரில்) கீழே கொடுக்கப்பட்டுள்ளன: தொட்டபெட்டா 2637, மகேந்திரகிரி 1647, ஆனைமுடி 2695, வெள்ளியங்கிரி 1778.\n(i) மேற்கண்ட மலைகளில் உயரமான மலை எது?\n(ii) உயரத்தைக் கொண்டு மலைகளின் பெயர்களை மிகப் பெரியதிலிருந்து சிறியது வரை வரிசைப்படுத்தி எழுதவும்.\n(iii) ஆனைமுடி மற்றும் மகேந்திரகிரி ஆகிய மலைகளின் உயரங்களின் வேறுபாடு என்ன?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "Which list of numbers is in order from the smallest to the largest?\n(a) 1468, 1486, 1484\n(b) 2345, 2435, 2235\n(c) 134205, 134208, 154203\n(d) 383553, 383548, 383642",
+        "ta": "பட்டியலில் எந்த எண் வரிசை சிறியதிலிருந்து பெரியதாக வரிசைப்படுத்தப்பட்டு உள்ளது?\n(அ) 1468, 1486, 1484\n(ஆ) 2345, 2435, 2235\n(இ) 134205, 134208, 154203\n(ஈ) 383553, 383548, 383642"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "11",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The Arabian Sea has an area of 1491000 square miles. This area lies between which two numbers?\n(a) 1489000 and 1492540\n(b) 1489000 and 1490540\n(c) 1490000 and 1490100\n(d) 1480000 and 1490000",
+        "ta": "அரபிக் கடலின் பரப்பளவு 1491000 சதுர மைல்கள். இது எந்த இரு எண்களுக்கு இடையில் அமைந்துள்ளது?\n(அ) 1489000 மற்றும் 1492540\n(ஆ) 1489000 மற்றும் 1490540\n(இ) 1490000 மற்றும் 1490100\n(ஈ) 1480000 மற்றும் 1490000"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "12",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The chart below shows the number of newspapers sold as per Indian Readership Survey in 2018. Which could be the missing number in the table?\nNewspaper A: rank 1, sold 70 lakh; B: rank 2, sold 50 lakh; C: rank 3, sold ? lakh; D: rank 4, sold 10 lakh.\n(a) 8  (b) 52  (c) 77  (d) 26",
+        "ta": "இந்திய நாளிதழ் படிப்பவர்கள் கணக்கீட்டின்படி, 2018 இல் விற்ற நாளிதழ்களின் எண்ணிக்கையைக் காட்டும் அட்டவணையில் விடுபட்ட எண் என்னவாக இருக்கும்?\nA: தரம் 1, விற்பனை 70 இலட்சம்; B: தரம் 2, விற்பனை 50 இலட்சம்; C: தரம் 3, விற்பனை ? இலட்சம்; D: தரம் 4, விற்பனை 10 இலட்சம்.\n(அ) 8  (ஆ) 52  (இ) 77  (ஈ) 26"
+      },
+      "blocks": []
+    }
+  ]
+}
