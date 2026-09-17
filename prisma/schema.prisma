@@ -61,9 +61,12 @@ model Exercise {
 
 model Learner {
   id        String             @id @default(cuid())
+  user      User?              @relation(fields: [userId], references: [id])
+  userId    String?            @unique
   name      String?
   createdAt DateTime           @default(now())
   progress  ExerciseProgress[]
+  academicRecords AcademicRecord[]
 }
 
 model ExerciseProgress {
@@ -76,4 +79,29 @@ model ExerciseProgress {
   learner     Learner   @relation(fields: [learnerId], references: [id], onDelete: Cascade)
   exercise    Exercise  @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
   @@unique([learnerId, exerciseId])
+}
+
+
+model User {
+  id             String   @id @default(cuid())
+  email          String   @unique
+  passwordHash   String?
+  googleSubject  String?  @unique
+  role           String   @default("LEARNER")
+  createdAt      DateTime @default(now())
+  learner        Learner?
+}
+
+model AcademicRecord {
+  id           String   @id @default(cuid())
+  learnerId    String
+  school       String
+  classLevel   Int
+  rollNumber   String
+  academicYear String
+  status       String   @default("PENDING")
+  requestedAt  DateTime @default(now())
+  reviewedAt   DateTime?
+  learner      Learner  @relation(fields: [learnerId], references: [id], onDelete: Cascade)
+  @@unique([learnerId, academicYear])
 }
