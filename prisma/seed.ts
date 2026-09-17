@@ -62,6 +62,37 @@ async function main() {
       }
     }
   }
+  for (const file of fs.readdirSync(contentDir).filter((name) => name.endsWith('.json'))) {
+    const content = JSON.parse(fs.readFileSync(path.join(contentDir, file), 'utf8'));
+    const items = Array.isArray(content.exercises) ? content.exercises : [content];
+    for (const item of items) {
+      const exercise = await db.exercise.findFirst({ where: { sectionId: item.sectionId, chapterNumber: item.chapterNumber, exerciseNumber: item.exerciseNumber, language: item.language }, select: { id: true } });
+      if (!exercise) continue;
+      const question = await db.question.upsert({
+        where: { exerciseId_questionNumber: { exerciseId: exercise.id, questionNumber: 'ALL' } },
+        update: { reviewStatus: item.contentStatus === 'VERIFIED_QUESTION_TEXT' ? 'CLEANED' : 'RAW' },
+        create: { exerciseId: exercise.id, questionNumber: 'ALL', questionType: 'TEXTBOOK_EXERCISE', reviewStatus: item.contentStatus === 'VERIFIED_QUESTION_TEXT' ? 'CLEANED' : 'RAW' }
+      });
+      const prompt = item.language === 'ta' ? item.questionTamil : item.questionEnglish;
+      if (prompt) {
+        await db.questionTranslation.upsert({
+          where: { questionId_language: { questionId: question.id, language: item.language } },
+          update: { prompt },
+          create: { questionId: question.id, language: item.language, prompt }
+        });
+        const blocks = Array.isArray(item.contentBlocks) ? item.contentBlocks : [{ type: 'text', text: prompt }];
+        for (let index = 0; index < blocks.length; index++) {
+          const block = blocks[index];
+          await db.contentBlock.upsert({
+            where: { questionId_language_orderIndex: { questionId: question.id, language: item.language, orderIndex: index } },
+            update: { blockType: block.type ?? 'text', text: block.text ?? null, latex: block.latex ?? null, assetUrl: block.src ?? null, assetAlt: block.alt ?? null },
+            create: { questionId: question.id, language: item.language, orderIndex: index, blockType: block.type ?? 'text', text: block.text ?? null, latex: block.latex ?? null, assetUrl: block.src ?? null, assetAlt: block.alt ?? null }
+          });
+        }
+      }
+    }
+  }
+
   console.log(`Seeded ${exerciseCount} exercise-language records and applied content files.`);
 }
 
