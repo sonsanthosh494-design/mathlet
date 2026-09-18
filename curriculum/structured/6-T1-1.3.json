@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 1,
+  "exerciseNumber": "1.3",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) If Arulmozhi saves ₹12 per day, then she saves ₹________ in 30 days.\n(ii) If a person ‘A’ earns ₹1800 in 12 days, then he earns ₹________ in a day.\n(iii) 45 ÷ (7 + 8) − 2 = ________.",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) அருள்மொழி ஒரு நாளில் ₹12 சேமித்ததால் 30 நாட்களில் ₹________ சேமிப்பாள்.\n(ii) A என்பவர் 12 நாட்களில் ₹1800 வருமானம் பெறுகிறார், எனில் ஒரு நாளில் ₹________ஐப் பெறுவார்.\n(iii) 45 ÷ (7 + 8) − 2 = ________."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say True or False.\n(i) 3 + 9 × 8 = 96\n(ii) 7 × 20 − 4 = 136\n(iii) 40 + (56 − 6) ÷ 2 = 45",
+        "ta": "சரியா தவறா எனக் கூறுக.\n(i) 3 + 9 × 8 = 96\n(ii) 7 × 20 − 4 = 136\n(iii) 40 + (56 − 6) ÷ 2 = 45"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The number of people who visited the Public Library for the past 5 months were 1200, 2000, 2450, 3060 and 3200 respectively. How many people visited the library in the last 5 months.",
+        "ta": "கடந்த ஐந்து மாதங்களில் ஒரு குறிப்பிட்ட பொது நூலகத்திற்கு வருகை புரிந்தவர்களின் எண்ணிக்கை முறையே 1200, 2000, 2450, 3060 மற்றும் 3200. ஐந்து மாதங்களில் அந்த நூலகத்திற்கு வருகை புரிந்தவர்கள் மொத்தம் எத்தனை பேர்?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Cheran had a bank savings of ₹7,50,250. He withdrew ₹5,34,500 for educational purpose. Find the balance amount in his account.",
+        "ta": "சேரன் வங்கியில் சேமிப்பாக ₹7,50,250 ஐ வைத்திருந்தார். கல்விச் செலவிற்காக ₹5,34,500 ஐத் திரும்ப எடுத்தார். அவரின் கணக்கிலுள்ள மீதித் தொகையைக் காண்க?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "In a cycle factory, 1560 bicycles were manufactured every day. Find the number of bicycles manufactured in 25 days.",
+        "ta": "ஒரு மிதிவண்டித் தொழிற்சாலையில், ஒரு நாளைக்கு 1560 மிதிவண்டிகள் உற்பத்தி செய்யப்பட்டன எனில், 25 நாட்களில் எத்தனை மிதிவண்டிகள் உற்பத்தி செய்யப்பட்டன."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "₹62500 was equally distributed as a New Year bonus for 25 employees of a company. How much did each receive?",
+        "ta": "ஒரு நிறுவனம் புது ஆண்டிற்கான வெகுமதித் தொகையாக (போனஸ்) ₹62500 ஐ 25 ஊழியர்களுக்குச் சமமாகப் பங்கிட்டு வழங்கியது. ஒவ்வொருவரும் பெற்ற தொகை எவ்வளவு?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Simplify the following numerical expressions:\n(i) (10 + 17) ÷ 3\n(ii) 12 − [3 − {6 − (5 − 1)}]\n(iii) 100 + 8 ÷ 2 + {(3 × 2) − 6 ÷ 2}",
+        "ta": "சுருக்குக:\n(i) (10 + 17) ÷ 3\n(ii) 12 − [3 − {6 − (5 − 1)}]\n(iii) 100 + 8 ÷ 2 + {(3 × 2) − 6 ÷ 2}"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The value of 3 + 5 − 7 × 1 is ________.\n(a) 5\n(b) 7\n(c) 8\n(d) 1",
+        "ta": "3 + 5 − 7 × 1 இன் மதிப்பு ________.\n(அ) 5\n(ஆ) 7\n(இ) 8\n(ஈ) 1"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The value of 24 ÷ {8 − (3 × 2)} is ________.\n(a) 0\n(b) 12\n(c) 3\n(d) 4",
+        "ta": "24 ÷ {8 − (3 × 2)} இன் மதிப்பு ________.\n(அ) 0\n(ஆ) 12\n(இ) 3\n(ஈ) 4"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "Use BIDMAS and put the correct operator in the box.\n2 □ 6 − 12 ÷ (4 + 2) = 10\n(a) +\n(b) −\n(c) ×\n(d) ÷",
+        "ta": "BIDMAS ஐப் பயன்படுத்திச் சரியான குறியீட்டைக் கட்டத்தில் நிரப்புக.\n2 □ 6 − 12 ÷ (4 + 2) = 10\n(அ) +\n(ஆ) −\n(இ) ×\n(ஈ) ÷"
+      },
+      "blocks": []
+    }
+  ]
+}
