@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 3,
+  "exerciseNumber": "3.3",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the boxes.\n(i) 3 : 5 : : ___ : 20\n(ii) ___ : 24 : : 3 : 8\n(iii) 5 : ___ : : 10 : 8 : : 15 : ___\n(iv) 12 : ___ = ___ : 4 = 8 : 16",
+        "ta": "விடுபட்ட எண்களை நிரப்புக.\n(i) 3 : 5 : : ___ : 20\n(ii) ___ : 24 : : 3 : 8\n(iii) 5 : ___ : : 10 : 8 : : 15 : ___\n(iv) 12 : ___ = ___ : 4 = 8 : 16"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say True or False.\n(i) 7 Persons is to 49 Persons as 11 kg is to 88 kg.\n(ii) 10 books is to 15 books as 3 books is to 15 books.\n(iiii) If the weight of 40 books is 8 kg, then the weight of 15 books is 3 kg.\n(iv) A car travels 90 km in 3 hours with constant speed. It will travel 140 km in 5 hours at the same speed.",
+        "ta": "சரியா, தவறா எனக் கூறுக.\n(i) 7 நபர்களுக்கும் 49 நபர்களுக்கும் உள்ள விகிதமும், 11 கிகி எடைக்கும் 88 கிகி எடைக்கும் உள்ள விகிதமும் விகித சமத்தை அமைக்கும்.\n(ii) 10 நூல்களுக்கும் 15 நூல்களுக்கும் உள்ள விகிதமும், 3 நூல்களுக்கும் 15 நூல்களுக்கும் உள்ள விகிதமும் விகித சமத்தை அமைக்கும்.\n(iii) 40 நூல்களின் எடை 8 கிகி எனில், 15 நூல்களின் எடை 3 கிகி.\n(iv) சீரான வேகத்தில், ஒரு மகிழுந்து 3 மணி நேரத்தில் 90 கிமீ எனப் பயணிக்கிறது. அதே வேகத்தில், 5 மணி நேரத்தில் அது 140 கிமீ தொலைவைப் பயணிக்கும்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) If the cost of 3 pens is ₹18, then the cost of 5 pens is __________.\n(ii) If Karkuzhali earns ₹1800 in 15 days, then she earns ₹3000 in __________ days.",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) 3 எழுதுகோல்களின் விலை ₹18 எனில், 5 எழுதுகோல்களின் விலை __________.\n(ii) 15 நாட்களில் கார்குழலி ₹1800 ஐ வருமானமாகப் பெறுகிறார் எனில், ₹3000 ஐ __________ நாட்களில் வருமானமாகப் பெறுவார்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find whether 12, 24, 18, 36 are in order that can be expressed as two ratios that are in proportion.",
+        "ta": "12, 24, 18, 36 ஆகிய எண்களைக் கொடுக்கப்பட்ட வரிசையில், விகித சமமாக இரு விகிதங்களாக எழுத முடியுமா?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Write the mean and extreme terms in the following ratios and check whether they are in proportion.\n(i) 78 litre is to 130 litre and 12 bottles is to 20 bottles\n(ii) 400 gm is to 50 gm and 25 rupees is to 625 rupees",
+        "ta": "கீழ்க்காணும் விகிதங்கள் விகித சமமா எனக் காண்க. விகித சமம் எனில் அதன் கோடி மதிப்புகளையும் மற்றும் நடு மதிப்புகளையும் கண்டறிந்து எழுதுக.\n(i) 78 லிட்டருக்கும் 130 லிட்டருக்கும் உள்ள விகிதம் மற்றும் 12 குப்பிகளுக்கும் 20 குப்பிகளுக்கும் உள்ள விகிதம்\n(ii) 400 கிராமுக்கும் 50 கிராமுக்கும் உள்ள விகிதம் மற்றும் ₹25 இக்கும் ₹625 இக்கும் உள்ள விகிதம்"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The America’s famous Golden Gate bridge is 6480 ft long with 756 ft tall towers. A model of this bridge exhibited in a fair is 60 ft long with 7 ft tall towers. Is the model, in proportion to the original bridge?",
+        "ta": "அமெரிக்காவின் பிரபலமான தங்க நுழைவு வாயில் பாலம் 6480 அடி நீளமும் 756 அடி உயரமும் கொண்ட கோபுரங்களைக் கொண்டது. ஒரு கண்காட்சியில் பயன்படுத்தப்பட்ட அதன் மாதிரிப் பாலத்தின் நீளம் 60 அடி மற்றும் உயரம் 7 அடியாகும். பயன்படுத்தப்பட்ட பாலத்தின் மாதிரி ஆனது உண்மைப் பாலத்திற்கு விகித சமமாக உள்ளதா?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Illustration of the Golden Gate Bridge accompanying the proportion problem."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "If a person reads 20 pages of a book in 2 hours, how many pages will he read in 8 hours at the same speed?",
+        "ta": "ஒரு நபர் 2 மணி நேரத்தில் 20 பக்கங்களைப் படிக்கிறார் எனில் அதே வேகத்தில் 8 மணி நேரத்தில் அவரால் எத்தனை பக்கங்கள் படிக்க முடியும்?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Cholan walks 6 km in 1 hour at constant speed. Find the distance covered by him in 20 minutes at the same speed.",
+        "ta": "சோழன் சீரான வேகத்தில் நடந்து 6 கி.மீ. தொலைவை 1 மணி நேரத்தில் கடக்கிறார். அதே வேகத்தில் அவர் 20 நிமிடங்களில் நடந்து கடக்கும் தொலைவு எவ்வளவு?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The number of correct answers given by Kaarmugilan and Kavitha in a quiz competition are in the ratio 10 : 11. If they had scored a total of 84 points in the competition, then how many points did Kavitha get?",
+        "ta": "ஒரு வினாடி வினா போட்டியில் கார்முகிலன் மற்றும் கவிதா வழங்கிய சரியான விடைகளின் எண்ணிக்கையின் விகிதம் 10 : 11. அப்போட்டியில் அவர்கள் மொத்தமாக 84 புள்ளிகள் பெற்றனர் எனில், கவிதா பெற்ற புள்ளிகள் எத்தனை?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "COMPARISON",
+      "translations": {
+        "en": "Karmegan made 54 runs in 9 overs and Asif made 77 runs in 11 overs. Whose run rate is better? (run rate = ratio of runs to overs)",
+        "ta": "கார்மேகன் 9 ஓவர்களில் 54 ஓட்டங்களையும் ஆசிிஃப் 11 ஓவர்களில் 77 ஓட்டங்களையும் எடுத்தார்கள் எனில் யாருடைய ஓட்ட விகிதம் சிறப்பானது? (ஓட்ட விகிதம் = ஓட்டம் ÷ ஓவர்)"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "11",
+      "questionType": "COMPARISON",
+      "translations": {
+        "en": "You purchase 6 apples for ₹90 and your friend purchases 5 apples for ₹70. Whose purchase is better?",
+        "ta": "உன் நண்பன் 5 ஆப்பிள்களை ₹70 இக்கும், நீ 6 ஆப்பிள்களை ₹90 இக்கும் வாங்கினால். யார் வாங்கியது சிறப்பு?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "12",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "Which of the following ratios are in proportion?\n(a) 3 : 5, 6 : 11\n(b) 2 : 3, 9 : 6\n(c) 2 : 5, 10 : 25\n(d) 3 : 1, 1 : 3",
+        "ta": "பின்வரும் விகிதங்களில் எது விகித சமமாகும்?\n(அ) 3 : 5, 6 : 11\n(ஆ) 2 : 3, 9 : 6\n(இ) 2 : 5, 10 : 25\n(ஈ) 3 : 1, 1 : 3"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "13",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "If the ratios formed using the numbers 2, 5, x, 20 in the same order are in proportion, then ‘x’ is\n(a) 50\n(b) 4\n(c) 10\n(d) 8",
+        "ta": "2, 5, x, 20 ஆகிய எண்களை அதே வரிசையில் பயன்படுத்தி அமையும் விகிதங்கள் விகித சமமாக இருப்பின், ‘x’ = ?\n(அ) 50\n(ஆ) 4\n(இ) 10\n(ஈ) 8"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "14",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "If 7 : 5 is in proportion to x : 25, then ‘x’ is\n(a) 27\n(b) 49\n(c) 35\n(d) 14",
+        "ta": "7 : 5 ஆனது x : 25 இக்கு விகித சமம் எனில், ‘x’ இன் மதிப்பு காண்க.\n(அ) 27\n(ஆ) 49\n(இ) 35\n(ஈ) 14"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "15",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "If a wooden doll costs ₹90, then the cost of 3 such dolls is ₹___________.\n(a) 260\n(b) 270\n(c) 30\n(d) 93",
+        "ta": "ஒரு மரப்பாச்சிப் பொம்மையின் விலை ₹90. அதேபோன்று 3 பொம்மைகளின் விலை ______.\n(அ) ₹260\n(ஆ) ₹270\n(இ) ₹30\n(ஈ) ₹93"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "16",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "If a man walks 2 km in 15 minutes, then he will walk _________ km in 45 minutes.\n(a) 10\n(b) 8\n(c) 6\n(d) 12",
+        "ta": "ஒரு நபர் 15 நிமிடங்களில் 2 கி.மீ நடக்கிறார் எனில், 45 நிமிடங்களில் அவர் _______ நடப்பார்.\n(அ) 10 கி.மீ.\n(ஆ) 8 கி.மீ.\n(இ) 6 கி.மீ.\n(ஈ) 12 கி.மீ."
+      },
+      "blocks": []
+    }
+  ]
+}
