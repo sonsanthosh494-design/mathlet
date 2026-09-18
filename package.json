@@ -9,7 +9,10 @@
     "prisma:generate": "prisma generate",
     "prisma:seed": "tsx prisma/seed.ts",
     "content:import": "node scripts/import-structured-content.mjs",
-    "content:validate": "node scripts/validate-structured-content.mjs"
+    "content:validate": "node scripts/validate-structured-content.mjs",
+    "content:assets": "node scripts/generate-term1-visual-assets.mjs",
+    "predev": "npm run content:assets",
+    "prebuild": "npm run content:assets"
   },
   "dependencies": {
     "@prisma/client": "6.19.0",
