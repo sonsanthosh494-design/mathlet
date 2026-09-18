@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 4,
+  "exerciseNumber": "4.3",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Observe the diagram and fill in the blanks.\n(i) ‘A’, ‘O’ and ‘B’ are _________ points.\n(ii) ‘A’, ‘O’ and ‘C’ are _________ points.\n(iii) ‘A’, ‘B’ and ‘C’ are _________ points.\n(iv) _________ is the point of concurrency.",
+        "ta": "கொடுக்கப்பட்ட படத்தை உற்று நோக்கி கோடிட்ட இடத்தை நிரப்புக.\n(i) ‘A’, ‘O’ மற்றும் ‘B’ என்பன _________ புள்ளிகள்.\n(ii) ‘A’, ‘O’ மற்றும் ‘C’ என்பன _________ புள்ளிகள்.\n(iii) ‘A’, ‘B’ மற்றும் ‘C’ என்பன _________ புள்ளிகள்.\n(iv) _________ என்பது ஒருங்கமைப் புள்ளி."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Three straight lines AB, DC and EF intersect at the common point O. A-O-B are horizontal; D-O-C and E-O-F are diagonal."
+        }
+      ]
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Draw any line and mark any 3 points that are collinear.",
+        "ta": "மூன்று புள்ளிகள் ஒரு கோடமைப் புள்ளிகளாக இருக்குமாறு ஒரு கோடு வரைக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Draw any line and mark any 4 points that are not collinear.",
+        "ta": "ஒரு கோடு வரைந்து, எவையேனும் 4 புள்ளிகளை அக்கோட்டில் அமையாதவாறு குறிக்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Draw any 3 lines to have a point of concurrency.",
+        "ta": "மூன்று கோடுகள் ஒரே புள்ளி வழிச் செல்லுமாறு வரைக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Draw any 3 lines that are not concurrent. Find the number of points of intersection.",
+        "ta": "ஒரு புள்ளி வழிச் செல்லாத மூன்று கோடுகள் வரைந்து வெட்டும் புள்ளிகளின் எண்ணிக்கையைக் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "A set of collinear points in the figure are _________.\n(a) A, B, C\n(b) A, F, C\n(c) B, C, D\n(d) A, C, D",
+        "ta": "படத்தில் உள்ள ஒரு கோடமைப் புள்ளிகள் _________.\n(அ) A, B, C\n(ஆ) A, F, C\n(இ) B, C, D\n(ஈ) A, C, D"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Rectangle-like figure with top points D-G-C, bottom points A-E-B, point H on the left side, point F at the centre, vertical GE through F, and diagonals DB and AC crossing at F."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "A set of non-collinear points in the figure are _________.\n(a) A, F, C\n(b) B, F, D\n(c) E, F, G\n(d) A, D, C",
+        "ta": "படத்தில் உள்ள ஒரு கோடமையாப் புள்ளிகள் _________.\n(அ) A, F, C\n(ஆ) B, F, D\n(இ) E, F, G\n(ஈ) A, D, C"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Same printed point-and-line figure as Question 6: D-G-C across the top, A-E-B across the bottom, H on the left side, and F at the central intersection."
+        }
+      ]
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "A point of concurrency in the figure is _________.\n(a) E\n(b) F\n(c) G\n(d) H",
+        "ta": "படத்தில் எது ஒருங்கமைப் புள்ளி?\n(அ) E\n(ஆ) F\n(இ) G\n(ஈ) H"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Same printed point-and-line figure as Questions 6 and 7, with several lines meeting at F."
+        }
+      ]
+    }
+  ]
+}
