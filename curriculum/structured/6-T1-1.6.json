@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 1,
+  "exerciseNumber": "1.6",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FORMING_NUMBERS",
+      "translations": {
+        "en": "Try to open my locked suitcase which has the biggest 5 digit odd number as the password comprising the digits 7, 5, 4, 3 and 8. Find the password.",
+        "ta": "என்னுடைய பூட்டப்பட்ட பெட்டியைத் திறக்கப் பயன்படும் கடவுச் சொல்லானது மிகப்பெரிய 5 இலக்க ஒற்றை எண் ஆகும். இது 7, 5, 4, 3 மற்றும் 8 ஆகிய இலக்கங்களைக் கொண்டது எனில் அக்கடவுச் சொல்லைக் கண்டறிக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "ORDERING",
+      "translations": {
+        "en": "As per the census of 2001, the population of four states are given below. Arrange the states in ascending and descending order of their population.\nState — Population\nTamil Nadu — 72147030\nRajasthan — 68548437\nMadhya Pradesh — 72626809\nWest Bengal — 91276115",
+        "ta": "2001 இல் மக்கள் தொகை கணக்கெடுப்பின்படி, நான்கு மாநிலங்களின் மக்கள் தொகை கீழே கொடுக்கப்பட்டுள்ளன. மக்கள் தொகையின்படி அம்மாநிலங்களை ஏறு மற்றும் இறங்கு வரிசையில் வரிசைப்படுத்துக.\nமாநிலம் — மக்கள்தொகை\nதமிழ்நாடு — 72147030\nஇராஜஸ்தான் — 68548437\nமத்தியபிரதேசம் — 72626809\nமேற்குவங்காளம் — 91276115"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Study the following table and answer the questions.\nYear — No. of Tigers\n1990 — 3500\n2008 — 1400\n2011 — 1706\n2014 — 2226\n(i) How many tigers were there in 2011?\n(ii) How many tigers were less in 2008 than in 1990?\n(iii) Did the number of tigers increase or decrease between 2011 and 2014? If yes, by how much?",
+        "ta": "பின்வரும் அட்டவணையை உற்றுநோக்கி, கீழேயுள்ள வினாக்களுக்கு விடையளிக்கவும்.\nஆண்டு — புலிகளின் எண்ணிக்கை\n1990 — 3500\n2008 — 1400\n2011 — 1706\n2014 — 2226\n(i) 2011 இல் இருந்த புலிகள் எத்தனை?\n(ii) 1990 ஐ விட 2008 இல் எத்தனை புலிகள் குறைந்துள்ளன?\n(iii) 2011 மற்றும் 2014 இக்கும் இடையே உள்ள புலிகளின் எண்ணிக்கை அதிகரித்துள்ளதா அல்லது குறைந்துள்ளதா?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Mullaikodi has 25 bags of apples. In each bag there are 9 apples. She shares them equally amongst her 6 friends. How many apples do each get? Are there any apples left over?",
+        "ta": "முல்லைக்கொடி, ஒவ்வொரு பையிலும் 9 ஆப்பிள்கள் கொண்ட 25 பைகள் வைத்திருந்தாள். அவளுடைய 6 நண்பர்களுக்கு அவற்றைச் சமமாகப் பங்கிட்டுக் கொடுத்தாள் எனில், ஒவ்வொரு நண்பரும் எத்தனை ஆப்பிள்களைப் பெற்றிருப்பர்? ஆப்பிள்கள் மீதமிருக்க வாய்ப்புண்டா? உண்டெனில் எத்தனை?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "A poultry has produced 15472 eggs and fits 30 eggs in a tray. How many trays do they need?",
+        "ta": "ஒரு கோழிப்பண்ணையிலிருந்து 15472 முட்டைகளை, ஓர் அடுக்கு அட்டையில் 30 முட்டைகள் வீதம் அடுக்கினால், மொத்தம் எத்தனை அடுக்கு அட்டைகள் தேவைப்படும்?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Read the table and answer the following questions.\nName of the Star — Diameter (in miles)\nSun — 864730\nSirius — 1556500\nCanopus — 25941900\nAlpha Centauri — 1037700\nArcturus — 19888800\nVega — 2594200\n(i) Write the Canopus star’s diameter in words, in the Indian and the International System.\n(ii) Write the sum of the place values of 5 in Sirius star’s diameter in the Indian System.\n(iii) Eight hundred sixty four million seven hundred thirty. Write in Indian System.\n(iv) Write the diameter in words of Arcturus star in the International System.\n(v) Write the difference of the diameters of Canopus and Arcturus stars in the Indian and the International Systems.",
+        "ta": "அட்டவணையைப் படித்துப் பின்வரும் வினாக்களுக்கு விடையளிக்க.\nவிண்மீன் பெயர் — விட்டம் (மைல்களில்)\nசூரியன் — 864730\nசிரியஸ் — 1556500\nஅகத்தியம் — 25941900\nஆல்ஃபா சென்டாரி — 1037700\nசுவாதி விண்மீன் — 19888800\nவேகா — 2594200\n(i) அகத்தியம் விண்மீன் விட்டத்தை இந்திய மற்றும் பன்னாட்டு முறையில் எழுதுக.\n(ii) சிரியஸ் விண்மீன் விட்டத்தில் உள்ள 5இன் மதிப்புகளின் கூடுதலை இந்திய முறையில் எழுதுக.\n(iii) எண்ணூற்று அறுபத்து நான்கு மில்லியன் எழுநூற்று முப்பது என்பதை இந்திய முறையில் எழுதுக.\n(iv) சுவாதி விண்மீன் விட்டத்தைப் பன்னாட்டு முறையில் எழுதுக.\n(v) அகத்தியம் மற்றும் சுவாதி விண்மீன்களின் விட்டங்களின் வேறுபாட்டை இந்திய மற்றும் பன்னாட்டு முறையில் எழுதுக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "FORMING_NUMBERS",
+      "translations": {
+        "en": "Anbu asks Arivu Selvi to guess a five digit odd number. He gives the following hints.\n• The digit in the 1000s place is less than 5\n• The digit in the 100s place is greater than 6\n• The digit in the 10s place is 8\nWhat is Arivu Selvi answer? Does she give more than one answer?",
+        "ta": "அன்பு, அறிவுச்செல்வியிடம் ஓர் ஐந்து இலக்க ஒற்றைப்படை எண்ணை நினைவில் கொள்ளுமாறுக் கூறினான். மேலும் பின்வரும் குறிப்புகளைக் கூறுகிறான்.\n• 1000 ஆவது இட மதிப்பில் உள்ள இலக்கம் 5 ஐ விடக் குறைவு.\n• 100 ஆவது இடமதிப்பில் உள்ள இலக்கம் 6 ஐ விடக் குறைவு.\n• 10 ஆவது இடமதிப்பில் உள்ள இலக்கம் 8.\nஅறிவுச்செல்வி கூறிய விடை என்னவாக இருக்கும்? அவள் ஒன்றுக்கு மேற்பட்ட விடைகளைக் கூறுவாளா?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "A Music concert is taking place in a stadium. A total of 7,689 chairs are to be put in rows of 90.\n(i) How many rows will there be?\n(ii) Will there be any chairs left over?",
+        "ta": "ஓர் அரங்கில் இசை நிகழ்ச்சி ஒன்று நடைபெற உள்ளது. மொத்தமுள்ள 7689 நாற்காலிகளை வரிசைக்கு 90 நாற்காலிகள் வீதம் போடப்படுகிறது எனில்.\n(i) எத்தனை வரிசைகளில் இருக்கும்?\n(ii) எத்தனை நாற்காலிகள் மீதம் இருக்கும்?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Round off the seven digit number 29,75,842 to the nearest lakhs and ten lakhs. Are they the same?",
+        "ta": "ஏழு இலக்க எண் 29,75,842 ஐ இலட்சம் மற்றும் பத்து இலட்சத்துக்கு முழுமையாக்குக. அம்மதிப்புகள் சமமாக இருக்குமா?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Find the 5 or 6 or 7 digit numbers from a newspaper or a magazine to get a rounded number to the nearest ten thousand.",
+        "ta": "செய்தித்தாள் மற்றும் இதழ்களிலிருந்து 5 அல்லது 6 அல்லது 7 இலக்க எண்களைக் கண்டுபிடித்துப் பத்தாயிரத்துக்கு முழுமையாக்குக."
+      },
+      "blocks": []
+    }
+  ]
+}
