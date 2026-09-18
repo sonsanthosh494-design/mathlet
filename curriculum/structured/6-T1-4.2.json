@@ -1,0 +1,185 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 4,
+  "exerciseNumber": "4.2",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Use any number of the given dots to make different angles.\n1) An Acute Angle\n2) An Obtuse Angle\n3) A Right Angle\n4) A Straight Angle",
+        "ta": "கொடுக்கப்பட்ட புள்ளிகளைப் பயன்படுத்தி, வெவ்வேறு கோணங்களை உருவாக்குக.\n1) குறுங்கோணம்\n2) விரிகோணம்\n3) செங்கோணம்\n4) நேர் கோணம்"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Four separate 3 by 3 dot grids, one for drawing each requested angle type."
+        }
+      ]
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Name the vertex and arms that form each angle.",
+        "ta": "படத்தில் உள்ள ஒவ்வொரு கோணத்திற்கும் அதன் உச்சி மற்றும் புயங்களை எழுதுக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Two angle figures. (i) Vertex D with rays DE vertical upward and DF horizontal right. (ii) Vertex D with rays DC slanting upward-right and DE horizontal right."
+        }
+      ]
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Pick out the Right angles from the given figures.",
+        "ta": "கொடுக்கப்பட்டுள்ள படங்களில் செங்கோணங்களைக் கண்டறிக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Five angle figures labelled (i)-(v): (i) marked 90°, (ii) marked 46°, (iii) marked with a right-angle square, (iv) marked 105°, and (v) marked with a right-angle square."
+        }
+      ]
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Pick out the Acute angles from the given figures.",
+        "ta": "கொடுக்கப்பட்டுள்ள படங்களில் குறுங்கோணங்களைக் கண்டறிக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Five angle figures labelled (i)-(v) with measures/marks 33°, 56°, 89°, 90° right angle, and 100° respectively."
+        }
+      ]
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Pick out the Obtuse angles from the given figures.",
+        "ta": "கொடுக்கப்பட்டுள்ள படங்களில் விரிகோணங்களைக் கண்டறிக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Five angle figures labelled (i)-(v) with measures/marks 101°, a right angle, 129°, 38°, and 89° respectively."
+        }
+      ]
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Name the angle in each figure given below in all the possible ways.",
+        "ta": "கீழே கொடுக்கப்பட்டுள்ள ஒவ்வொரு படத்திலுள்ள கோணத்திற்கும் பல வழிமுறைகளில் பெயரிடுக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Four labelled angles: (i) vertex M with arms ML and MN; (ii) vertex Q with arms QP and QR; (iii) vertex N with arms NM and NO; (iv) vertex A with arms AT and AS."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say True or False.\n(i) 20° and 70° are complementary.\n(ii) 88° and 12° are complementary.\n(iii) 80° and 180° are supplementary.\n(iv) 0° and 180° are supplementary.",
+        "ta": "சரியா? தவறா? எனக் கூறுக.\n(i) 20° மற்றும் 70° நிரப்புக் கோணங்கள்.\n(ii) 88° மற்றும் 12° நிரப்புக் கோணங்கள்.\n(iii) 80° மற்றும் 180° மிகை நிரப்புக் கோணங்கள்.\n(iv) 0° மற்றும் 180° மிகை நிரப்புக் கோணங்கள்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Draw and label each of the angles.\n(i) ∠NAS = 90°\n(ii) ∠BIG = 35°\n(iii) ∠SMC = 145°\n(iv) ∠ABC = 180°",
+        "ta": "பின்வரும் கோணங்களை வரைந்து பெயரிடுக.\n(i) ∠NAS = 90°\n(ii) ∠BIG = 35°\n(iii) ∠SMC = 145°\n(iv) ∠ABC = 180°"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Identify the types of angles shown by the hands of the given clock.",
+        "ta": "கொடுக்கப்பட்டுள்ள படங்களில், கடிகாரத்தின் முட்கள் காட்டும் கோணங்களின் வகைகளைக் கண்டறிக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Five clock-hand diagrams labelled (i), (ii), (iii), (iv) and (v), exactly as printed in the textbook, for identifying their angle types."
+        }
+      ]
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the complementary angle of\n(i) 30°\n(ii) 26°\n(iii) 85°\n(iv) 0°\n(v) 90°",
+        "ta": "பின்வரும் கோணங்களின் நிரப்புக் கோணங்களைக் காண்க.\n(i) 30°\n(ii) 26°\n(iii) 85°\n(iv) 0°\n(v) 90°"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "11",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the supplementary angle of\n(i) 70°\n(ii) 35°\n(iii) 165°\n(iv) 90°\n(v) 0°",
+        "ta": "பின்வரும் கோணங்களின் மிகை நிரப்புக் கோணங்களைக் காண்க.\n(i) 70°\n(ii) 35°\n(iii) 165°\n(iv) 90°\n(v) 0°"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "12",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the supplementary / complementary angles in each case.",
+        "ta": "கொடுக்கப்பட்டுள்ள படங்களில், நிரப்புக் கோணங்கள் அல்லது மிகை நிரப்புக் கோணங்களைக் கண்டறிக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Four printed angle diagrams: (i) A-B-C is a straight line with ray BD making 25° with BC and the adjacent angle unknown; (ii) BA is perpendicular to BC with ray BD between them and one part 30°; (iii) A-B-C is a straight line with ray BD and opposite ray BE, with a 67° angle and the adjacent angle unknown; (iv) BA is perpendicular to BC with ray BD between them, one part 46° and the other unknown."
+        }
+      ]
+    },
+    {
+      "questionNumber": "13",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "In this Figure, which is not the correct way of naming an angle?\n(a) ∠Y\n(b) ∠ZXY\n(c) ∠ZYX\n(d) ∠XYZ",
+        "ta": "படத்தில் உள்ள கோணத்தைக் குறிக்க எது சரியான முறை அல்ல?\n(அ) ∠Y\n(ஆ) ∠ZXY\n(இ) ∠ZYX\n(ஈ) ∠XYZ"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Angle with vertex Y and rays YX and YZ."
+        }
+      ]
+    },
+    {
+      "questionNumber": "14",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "In this Figure, ∠AYZ = 45°. If point ‘A’ is shifted to point ‘B’ along the ray, then the measure of ∠BYZ is ___________.\n(a) more than 45°\n(b) 45°\n(c) Less than 45°\n(d) 90°",
+        "ta": "படத்தில், ∠AYZ = 45°. கதிரின் மீது அமைந்த புள்ளி A-ஆனது B-க்கு நகர்கிறது எனில் கோண அளவு ∠BYZ ____________.\n(அ) > 45°\n(ஆ) 45°\n(இ) < 45°\n(ஈ) 90°"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Angle XYZ with vertex Y. Points A and B lie on the same slanting ray YX, with B farther from Y than A; YZ is the horizontal ray."
+        }
+      ]
+    }
+  ]
+}
