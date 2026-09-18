@@ -40,11 +40,14 @@ npm run dev
 
 The source of truth is the uploaded TN Textbooks PDF. Content is stored as individually numbered questions with shared English/Tamil translations.
 
-For structured content already prepared in `curriculum/structured/`:
+Generate the textbook-derived visual assets and import the structured content:
 
 ```bash
+npm run content:assets
 npm run content:import
 ```
+
+`npm run dev` and `npm run build` automatically regenerate the visual assets before starting.
 
 The importer must be run after the database seed and after new verified JSON files are added.
 
