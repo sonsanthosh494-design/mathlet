@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 5,
+  "exerciseNumber": "5.3",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Read the given Bar Graph which shows the percentage of marks obtained by Brinda in different subjects in an assessment test. Observe the Bar Graph and answer the following questions.\n(i) 1 Unit = __________ % of marks on vertical line.\n(ii) Brinda has scored maximum marks in __________ subject.\n(iii) Brinda has scored minimum marks in __________ subject.\n(iv) The percentage of marks scored by Brinda in Science is __________.\n(v) Brinda scored 60% marks in the subject __________.\n(vi) Brinda scored 20% more in __________ subject than __________ subject.",
+        "ta": "பிருந்தா வெவ்வேறு பாடங்களின் அடைவுத்தேர்வுகளில் பெற்ற மதிப்பெண்களின் விழுக்காடு பட்டை வரைபடமாகத் தரப்பட்டுள்ளது. பட்டை வரைபடத்தை உற்றுநோக்கிப் பின்வரும் வினாக்களுக்கு விடையளிக்கவும்.\n(i) செங்குத்துக்கோட்டில் 1 அலகு = __________ % மதிப்பெண்கள்.\n(ii) பிருந்தா __________ பாடத்தில் மிகவும் அதிக மதிப்பெண் பெற்றுள்ளார்.\n(iii) பிருந்தா __________ பாடத்தில் மிகக் குறைந்த மதிப்பெண் பெற்றுள்ளார்.\n(iv) அறிவியல் பாடத்தில் பிருந்தா பெற்ற மதிப்பெண் விழுக்காடு __________.\n(v) __________ பாடத்தில் பிருந்தா 60% மதிப்பெண்கள் பெற்றுள்ளார்.\n(vi) பிருந்தா _____ பாடத்தைவிட _____ பாடத்தில் 20% அதிக மதிப்பெண் பெற்றுள்ளார்."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Vertical bar graph titled Brinda's marks in Assessment Test. Vertical axis is Percentage of Marks from 0 to 90 in steps of 10. Bars: Language 50%, English 60%, Mathematics 80%, Science 65%, Social Science 75%."
+        }
+      ]
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Chitra has to buy Laddus in order to distribute to her friends as follows:\nClasses — VI — VII — VIII — IX — X\nNumber of Laddus — 70 — 60 — 45 — 80 — 55\nDraw a Bar Graph for this data.",
+        "ta": "சித்ரா லட்டுகள் வாங்கிக் கீழ்க்காணுமாறு வகுப்பு வாரியாகத் தன் நண்பர்களுக்கு வழங்குகிறார்.\nவகுப்பு — VI — VII — VIII — IX — X\nஇனிப்புகளின் எண்ணிக்கை — 70 — 60 — 45 — 80 — 55\nஇந்தத் தரவுகளுக்குப் பட்டை வரைபடம் வரைக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The fruits liked by the students of a class are as follows. Draw a Bar Graph for this data.\nFruits — Bananas — Grapes — Apples — Mangoes — Guavas — Papayas — Other fruits\nNumber of students — 8 — 10 — 8 — 7 — 12 — 3 — 2",
+        "ta": "ஒரு வகுப்பில் உள்ள மாணவர்கள் விரும்பும் பழ வகைகள் கொடுக்கப்பட்டுள்ளன.\nபழங்கள் — வாழைப்பழம் — திராட்சை — ஆப்பிள் — மாம்பழம் — கொய்யா — பப்பாளி — இவை எதுவும் இல்லை\nமாணவர்களின் எண்ணிக்கை — 8 — 10 — 8 — 7 — 12 — 3 — 2\nஇந்தத் தரவுகளுக்குப் பட்டை வரைபடம் வரைக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The pictograph given below shows the number of absentees on different days of the week in class six. Draw the Bar graph for the same.",
+        "ta": "பின்வரும் பட விளக்கப்படத்தில் ஒரு வாரத்தில் வெவ்வேறு நாட்களில் ஆறாம் வகுப்பு மாணவர்களில் பள்ளிக்கு வருகை புரியாதவர்களின் எண்ணிக்கைகள் கொடுக்கப்பட்டுள்ளன. இந்தத் தரவுகளுக்குப் பட்டை வரைபடம் அமைக்க."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Pictograph of absentees. Key: one full student icon represents 4 students; one half student icon represents 2 students. Monday has 1 full icon; Tuesday 1 half; Wednesday 1 full plus 1 half; Thursday 2 full; Friday none; Saturday 3 full plus 1 half."
+        }
+      ]
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "A bar graph can be drawn using __________.\n(a) Horizontal bars only\n(b) Vertical bars only\n(c) Both horizontal bars and vertical bars\n(d) Either horizontal bars or vertical bars.",
+        "ta": "ஒரு பட்டை வரைபடமானது பின்வருவனவற்றுள் எதனைக் கொண்டிருக்கும்?\n(அ) கிடைமட்டப் பட்டைகள் மட்டும் உடையது\n(ஆ) செங்குத்துப் பட்டைகள் மட்டும் உடையது\n(இ) கிடைமட்ட மற்றும் செங்குத்துப்பட்டைகள் எனும் இரண்டையும் உடையது\n(ஈ) கிடைமட்ட அல்லது செங்குத்துப்பட்டைகள் இரண்டில் ஏதேனும் ஒன்றை உடையது"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The spaces between any two bars in a bar graph __________.\n(a) can be different\n(b) are the same\n(c) are not the same\n(d) all of these",
+        "ta": "பட்டை வரைபடத்தில் உள்ள பட்டைகளின் இடைவெளியானது __________.\n(அ) வெவ்வேறாக இருக்கும்\n(ஆ) சமமாக இருக்கும்\n(இ) சமமாக இருக்காது\n(ஈ) இவை அனைத்தும்."
+      },
+      "blocks": []
+    }
+  ]
+}
