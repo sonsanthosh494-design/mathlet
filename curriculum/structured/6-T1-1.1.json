@@ -11,16 +11,7 @@
         "en": "Fill in the blanks.\n(i) The smallest 7 digit number is _________.\n(ii) The largest 8 digit number is _________.\n(iii) The place value of 5 in 7005380 is _________.\n(iv) The expanded form of the number 76,70,905 is _________.",
         "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) மிகச் சிறிய ஏழிலக்க எண் _________.\n(ii) மிகப் பெரிய எட்டு இலக்க எண் _________.\n(iii) 7005380 என்ற எண்ணில் 5 இன் இடமதிப்பு _________.\n(iv) 76,70,905 என்ற எண்ணின் விரிவாக்கம் _________."
       },
-      "blocks": [
-        {
-          "blockType": "given",
-          "text": "Use place-value positions."
-        },
-        {
-          "blockType": "formula",
-          "latex": "digit value = digit × place value"
-        }
-      ]
+      "blocks": []
     },
     {
       "questionNumber": "2",
@@ -38,12 +29,7 @@
         "en": "How many ten thousands are there in the smallest 6 digit number?",
         "ta": "மிகச் சிறிய ஆறிலக்க எண்ணில் எத்தனை பத்தாயிரங்கள் உள்ளன?"
       },
-      "blocks": [
-        {
-          "blockType": "steps",
-          "text": "Write the smallest six-digit number, then divide it by 10,000."
-        }
-      ]
+      "blocks": []
     },
     {
       "questionNumber": "4",
@@ -52,12 +38,7 @@
         "en": "Observe the commas and write down the place value of 7.\n(i) 56,74,56,345\n(ii) 567,456,345",
         "ta": "கீழ்கண்ட எண்களில் 7 இன் இடமதிப்பை எழுதுக.\n(i) 56,74,56,345\n(ii) 567,456,345"
       },
-      "blocks": [
-        {
-          "blockType": "diagram",
-          "assetAlt": "Place-value chart for Indian and International number systems"
-        }
-      ]
+      "blocks": []
     },
     {
       "questionNumber": "5",
