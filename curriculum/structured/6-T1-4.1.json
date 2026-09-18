@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 4,
+  "exerciseNumber": "4.1",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) A line through two end points ‘A’ and ‘B’ is denoted by ____________.\n(ii) A line segment from point ‘B’ to point ‘A’ is denoted by ____________.\n(iii) A ray has ____________ end point(s).",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) A மற்றும் B என்ற இரண்டு புள்ளிகள் வழியாகச் செல்லும் கோட்டினை ____________ எனக் குறிப்போம்.\n(ii) புள்ளி B இலிருந்து புள்ளி A விற்குச் செல்லும் கோட்டுத்துண்டை ____________ எனக் குறிப்போம்.\n(iii) ஒரு கதிரானது ____________ முடிவுப் புள்ளியைப் பெற்றிருக்கும்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "How many line segments are there in the given line? Name them.",
+        "ta": "கொடுக்கப்பட்ட கோட்டில் எத்தனைக் கோட்டுத் துண்டுகள் உள்ளன? அவற்றின் பெயர்களைக் குறிப்பிடுக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "A straight line l with five collinear marked points in order P, A, B, C, Q."
+        }
+      ]
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Measure the following line segments.",
+        "ta": "பின்வரும் கோட்டுத்துண்டுகளின் நீளங்களை அளக்க."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Four line segments to be measured: vertical XY, horizontal AB, slanting EF, and slanting PQ, as printed in the textbook."
+        }
+      ]
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Construct a line segment using ruler and compass.\n(i) AB = 7.5 cm\n(ii) CD = 3.6 cm\n(iii) QR = 10 cm",
+        "ta": "அளவுகோல் மற்றும் கவராயத்தைப் பயன்படுத்திப் பின்வரும் கோட்டுத் துண்டுகளை வரைக.\n(i) AB = 7.5 செ.மீ.\n(ii) CD = 3.6 செ.மீ.\n(iii) QR = 10 செ.மீ."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "From the given figure, name the\n(i) parallel lines\n(ii) intersecting lines\n(iii) points of intersection.",
+        "ta": "படத்திலிருந்து, பின்வருவனவற்றைக் கண்டறிக.\n(i) இணை கோடுகள்\n(ii) வெட்டும் கோடுகள்\n(iii) வெட்டும் புள்ளிகள்"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "A horizontal line AB passes through P, Q and R. Line CD passes through P, line EF through Q, line IJ through R, and diagonal line GH also passes through R. CD, EF and IJ are drawn in similar near-vertical directions."
+        }
+      ]
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "From the given figure, name\n(i) all pairs of parallel lines.\n(ii) all pairs of intersecting lines.\n(iii) pair of lines whose point of intersection is ‘V’.\n(iv) point of intersection of the lines ‘l2’ and ‘l3’.\n(v) point of intersection of the lines ‘l1’ and ‘l5’.",
+        "ta": "படத்திலிருந்து, பின்வருவனவற்றைக் கண்டறிக.\n(i) அனைத்துச் சோடி இணை கோடுகள்\n(ii) அனைத்துச் சோடி வெட்டும் கோடுகள்\n(iii) V-ஐ வெட்டும் புள்ளியாகக் கொண்ட கோடுகள்\n(iv) கோடுகள் ‘l2’ மற்றும் ‘l3’ இன் வெட்டும் புள்ளி\n(v) கோடுகள் ‘l1’ மற்றும் ‘l5’ இன் வெட்டும் புள்ளி"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Five lines: l3, l4 and l5 are horizontal parallel lines. Diagonal l1 crosses l3 at P, l4 at R, l2 at V and l5 at U. Diagonal l2 crosses l3 at Q, l4 at S, l1 at V and l5 at T."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The number of line segments in the given figure is\n(a) 1\n(b) 2\n(c) 3\n(d) 4",
+        "ta": "கொடுக்கப்பட்ட படத்தில் உள்ள கோட்டுத் துண்டுகளின் எண்ணிக்கை\n(அ) 1\n(ஆ) 2\n(இ) 3\n(ஈ) 4"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "A straight line with three collinear marked points A, B and C."
+        }
+      ]
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "A line is denoted as\n(a) AB\n(b) ray AB notation\n(c) double-arrow AB notation\n(d) line-segment AB notation",
+        "ta": "பின்வருவனவற்றுள் எது கோட்டுத் துண்டினைக் குறிக்கும்?\n(அ) AB\n(ஆ) AB கதிர் குறியீடு\n(இ) AB இருதிசை அம்புக் குறியீடு\n(ஈ) AB கோட்டுத்துண்டுக் குறியீடு"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "The four options use different geometric notations over AB: plain AB, a one-direction ray arrow, a two-direction line arrow, and a line-segment bar."
+        }
+      ]
+    }
+  ]
+}
