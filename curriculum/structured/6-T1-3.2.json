@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 3,
+  "exerciseNumber": "3.2",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks for the given equivalent ratios.\n(i) 3 : 5 = 9 : ___\n(ii) 4 : 5 = ___ : 10\n(iii) 6 : ___ = 1 : 2",
+        "ta": "கீழ்க்காணும் சமான விகிதங்களில் விடுபட்ட எண்களை நிரப்புக.\n(i) 3 : 5 = 9 : ___\n(ii) 4 : 5 = ___ : 10\n(iii) 6 : ___ = 1 : 2"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Complete the table.\n(i) Feet — 1 — 2 — 3 — ?\nInch — 12 — 24 — ? — 72\n(ii) Days — 28 — 21 — ? — 63\nWeeks — 4 — 3 — 2 — ?",
+        "ta": "அட்டவணையை நிறைவு செய்க.\n(i) அடி — 1 — 2 — 3 — ?\nஅங்குலம் — 12 — 24 — ? — 72\n(ii) நாட்கள் — 28 — 21 — ? — 63\nவாரங்கள் — 4 — 3 — 2 — ?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say True or False.\n(i) 5 : 7 is equivalent to 21 : 15.\n(ii) If 40 is divided in the ratio 3 : 2, then the larger part is 24.",
+        "ta": "சரியா, தவறா எனக் கூறுக.\n(i) 5 : 7 என்பது 21 : 15 இக்குச் சமான விகிதம் ஆகும்.\n(ii) 40 ஐ 3 : 2 என்ற விகிதத்தில் பிரித்தால் கிடைக்கும் மிகப்பெரிய பங்கு 24 ஆகும்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Give two equivalent ratios for each of the following.\n(i) 3 : 2\n(ii) 1 : 6\n(iii) 5 : 4",
+        "ta": "கீழ்க்காணும் விகிதங்களுக்கு இரண்டு சமான விகிதங்களை எழுதுக.\n(i) 3 : 2\n(ii) 1 : 6\n(iii) 5 : 4"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "COMPARISON",
+      "translations": {
+        "en": "Which of the two ratios is larger?\n(i) 4 : 5 or 8 : 15\n(ii) 3 : 4 or 7 : 8\n(iii) 1 : 2 or 2 : 1",
+        "ta": "கீழ்க்காணும் விகிதங்களில் எது பெரிய விகிதம்?\n(i) 4 : 5 அல்லது 8 : 15\n(ii) 3 : 4 அல்லது 7 : 8\n(iii) 1 : 2 அல்லது 2 : 1"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Divide the numbers given below in the required ratio.\n(i) 20 in the ratio 3 : 2\n(ii) 27 in the ratio 4 : 5\n(iii) 40 in the ratio 6 : 14",
+        "ta": "கீழ்க்காணும் எண்களைக் கொடுக்கப்பட்ட விகிதத்தில் பிரிக்கவும்.\n(i) 3 : 2 என்ற விகிதத்தில் 20 ஐப் பிரிக்கவும்.\n(ii) 4 : 5 என்ற விகிதத்தில் 27 ஐப் பிரிக்கவும்.\n(iii) 6 : 14 என்ற விகிதத்தில் 40 ஐப் பிரிக்கவும்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "In a family, the amount spent in a month for buying Provisions and Vegetables are in the ratio 3 : 2. If the allotted amount is ₹4000, then what will be the amount spent for\n(i) Provisions and\n(ii) Vegetables?",
+        "ta": "ஓர் குடும்பத்தில் மாதச் செலவுகளில் மளிகைக்கும் காய்கறிகளுக்கும் ஆகும் செலவுகளின் விகிதம் 3 : 2. இவை இரண்டிற்கும் ஒரு மாதத்திற்கு ₹4000 ஒதுக்கப்பட்டால்\n(i) மளிகை\n(ii) காய்கறி\nஆகியவற்றிற்காகும் செலவுகளைக் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "A line segment 63 cm long is to be divided into two parts in the ratio 3 : 4. Find the length of each part.",
+        "ta": "63 செமீ நீளமுள்ள ஒரு கோட்டுத் துண்டை 3 : 4 என்ற விகிதத்தில் பிரித்தால் கிடைக்கும் கோட்டுத் துண்டுகளின் நீளங்களைக் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "If 2 : 3 and 4 : ___ are equivalent ratios, then the missing term is\n(a) 6\n(b) 2\n(c) 4\n(d) 3",
+        "ta": "2 : 3 மற்றும் 4 : ___ ஆகியவை சமான விகிதங்கள் எனில் விடுபட்ட உறுப்பு\n(அ) 6\n(ஆ) 2\n(இ) 4\n(ஈ) 3"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "An equivalent ratio of 4 : 7 is\n(a) 1 : 3\n(b) 8 : 15\n(c) 14 : 8\n(d) 12 : 21",
+        "ta": "4 : 7 இன் சமான விகிதமானது\n(அ) 1 : 3\n(ஆ) 8 : 15\n(இ) 14 : 8\n(ஈ) 12 : 21"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "11",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "Which is not an equivalent ratio of 16/24?\n(a) 6/9\n(b) 12/18\n(c) 10/15\n(d) 20/28",
+        "ta": "16/24 இக்கு எது சமான விகிதம் அல்ல?\n(அ) 6/9\n(ஆ) 12/18\n(இ) 10/15\n(ஈ) 20/28"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "12",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "If ₹1600 is divided among A and B in the ratio 3 : 5 then, B’s share is\n(a) ₹480\n(b) ₹800\n(c) ₹1000\n(d) ₹200",
+        "ta": "₹1600 ஐ A மற்றும் B என்ற இரு நபர்களுக்கு 3 : 5 என்ற விகிதத்தில் பிரித்துக்கொடுத்தால், B இக்குக் கிடைக்கும் தொகை எவ்வளவு?\n(அ) ₹480\n(ஆ) ₹800\n(இ) ₹1000\n(ஈ) ₹200"
+      },
+      "blocks": []
+    }
+  ]
+}
