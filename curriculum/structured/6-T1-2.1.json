@@ -1,0 +1,159 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 2,
+  "exerciseNumber": "2.1",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) The letters a, b, c, … x, y, z are used to represent _________.\n(ii) The algebraic statement of ‘f decreased by 5’ is __________.\n(iii) The algebraic statement of ‘s divided by 5’ is __________.\n(iv) If A’s age is ‘n’ years now, 7 years ago A’s age was ________.\n(v) If ‘p − 5’ gives 12 then ‘p’ is __________.",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) a, b, c, … x, y, z ஆகிய எழுத்துகள் _______ குறிப்பதற்குப் பயன்படுத்துகின்றன.\n(ii) ‘f’ இலிருந்து 5 ஐக் குறைத்தல் என்பதற்கான இயற்கணிதக் கூற்று ___________.\n(iii) ‘s’ ஐ 5 ஆல் வகுத்தல் என்பதற்கான இயற்கணிதக் கூற்று ___________.\n(iv) தற்போது ‘A’ இன் வயது ‘n’ எனில் 7 ஆண்டுகளுக்கு முன்பு ‘A’ இன் வயது ___________.\n(v) ‘p − 5’ ஆனது 12 எனில் ‘p’ இன் மதிப்பு ___________."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say True or False.\n(i) In the pencil shown, part A is 6 cm, the total length is a cm, and the length of part B is ‘a − 6’.\n(ii) If the cost of an 🍎 is ‘x’ and the cost of a 🍌 is ₹5, then the total cost of fruits is ₹‘x + 5’.\n(iii) 10 more to three times ‘c’ is ‘10c + 3’.\n(iv) If the cost of 10 rice bags is ₹‘t’, then the cost of 1 rice bag is ₹‘t/10’.\n(v) The product of ‘q’ and 20 is ‘20q’.",
+        "ta": "சரியா, தவறா எனக் கூறுக.\n(i) காட்டப்பட்டுள்ள எழுதுகோலில் A பகுதி 6 செ.மீ, மொத்த நீளம் a செ.மீ; B பகுதியின் நீளம் ‘a − 6’.\n(ii) 🍎 இன் விலை ‘x’ மற்றும் 🍌 இன் விலை ₹5 எனில், இவ்விரு பழங்களின் மொத்த விலை ₹‘x + 5’ ஆகும்.\n(iii) c இன் மூன்று மடங்கை விட 10 அதிகம் எனும் கூற்று ‘10c + 3’ ஐக் குறிக்கிறது.\n(iv) 10 அரிசிப் பைகளின் விலை ₹‘t’ எனில் 1 அரிசிப் பையின் விலை ₹‘t/10’ ஆகும்.\n(v) q மற்றும் 20 இன் பெருக்கற்பலன் 20q."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Pencil diagram: part A is 6 cm, total pencil length is a cm, and part B is the remaining length."
+        }
+      ]
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Draw the next two patterns and complete the table.\nShapes — 1st Pattern — 2nd Pattern — 3rd Pattern — 4th Pattern — 5th Pattern\nSquares — 1 — 2 — 3 — ___ — ___\nCircles — 1 — 2 — 3 — ___ — ___\nTriangles — 2 — 4 — 6 — ___ — ___",
+        "ta": "அடுத்த இரண்டு அமைப்புகளை வரையவும் மற்றும் அட்டவணையை நிரப்பவும்.\nவடிவங்கள் — முதலாம் அமைப்பு — இரண்டாம் அமைப்பு — மூன்றாம் அமைப்பு — நான்காம் அமைப்பு — ஐந்தாம் அமைப்பு\nசதுரங்கள் — 1 — 2 — 3 — ___ — ___\nவட்டங்கள் — 1 — 2 — 3 — ___ — ___\nமுக்கோணங்கள் — 2 — 4 — 6 — ___ — ___"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "The first three geometric patterns contain respectively 1, 2 and 3 squares; 1, 2 and 3 circles; and 2, 4 and 6 triangles."
+        }
+      ]
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Arivazhagan is 30 years younger to his father. Write Arivazhagan's age in terms of his father's age.",
+        "ta": "அறிவழகன் அவரது தந்தையைவிட 30 வயது இளையவன். அறிவழகனின் வயதை அவரது தந்தையின் வயதைக் கொண்டு எழுதவும்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "If ‘u’ is an even number, how would you represent\n(i) the next even number?\n(ii) the previous even number?",
+        "ta": "‘u’ என்பது இரட்டை எண் எனில் பின்வருவனவற்றை எவ்வாறு குறிப்பிடுவாய்?\n(i) ‘u’ இன் அடுத்த இரட்டை எண் எது?\n(ii) ‘u’ இன் முந்தைய இரட்டை எண் எது?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Express the following verbal statement to algebraic statement.\n(i) ‘t’ is added to 100.\n(ii) 4 times ‘q’.\n(iii) 4 less to 9 times of ‘y’.",
+        "ta": "பின்வரும் வாய்மொழிக் கூற்றுகளை இயற்கணிதக் கூற்றுகளாக மாற்றுக.\n(i) ‘t’ உடன் 100 ஐ அதிகரிக்க.\n(ii) ‘q’ இன் 4 மடங்கு.\n(v) ‘y’ இன் 9 மடங்கிலிருந்து 4 ஐக் குறைக்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Express the following algebraic statement to verbal statement.\n(i) x ÷ 3\n(ii) 11 + 10x\n(iii) 70s",
+        "ta": "பின்வரும் இயற்கணிதக் கூற்றுகளை வாய்மொழிக் கூற்றுகளாக மாற்றுக.\n(i) x ÷ 3\n(ii) 11 + 10x\n(iii) 70s"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The teacher asked two students to write the algebraic statement for the verbal statement “8 more than a number”. Vetri wrote ‘8 + x’ but Maran wrote ‘8x’. Who gave the correct answer?",
+        "ta": "ஆசிரியர் இரண்டு மாணவர்களிடம் “ஓர் எண்ணை விட 8 அதிகம்” என்ற வாய்மொழிக் கூற்றை இயற்கணிதக் கூற்றாக எழுதுமாறு கூறுகிறார். வெற்றி ‘8 + x’ எனவும், மாறன் ‘8x’ எனவும் எழுதினர். யாருடைய விடை சரியானது?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Answer the following questions.\n(i) If ‘g’ is equal to 300 what is the value of ‘g − 1’ and ‘g + 1’?\n(ii) What is the value of ‘s’, if ‘2s − 6’ gives 30?",
+        "ta": "பின்வரும் வினாக்களுக்கு விடையளிக்க.\n(ii) ‘g’ ஆனது 300 எனில், ‘g − 1’ மற்றும் ‘g + 1’ இன் மதிப்பு யாது?\n(iii) ‘2s − 6’ ஆனது 30 எனில், ‘s’ இன் மதிப்பு யாது?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Complete the table and find the value of ‘k’ for which ‘k/3’ gives 5.\nk — 3 — 6 — 9 — 12 — 15 — 18\nk/3 — 1 — 2 — ___ — ___ — ___ — ___",
+        "ta": "பின்வரும் அட்டவணையை நிரப்புக. மேலும் ‘k/3’ இன் மதிப்பு 5 எனில் ‘k’ இன் மதிப்பைக் காண்க.\nk — 3 — 6 — 9 — 12 — 15 — 18\nk/3 — 1 — 2 — ___ — ___ — ___ — ___"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "11",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "Variable means that it\n(a) can take only a few values\n(b) has a fixed value\n(c) can take different values\n(d) can take only 8 values",
+        "ta": "மாறி என்பதன் பொருள்\n(அ) சில மதிப்புகளை மட்டும் ஏற்கக் கூடியது\n(ஆ) நிலையான மதிப்பைக் கொண்டது\n(இ) வேறுபட்ட மதிப்புகளை ஏற்கக் கூடியது\n(ஈ) 8 மதிப்புகளை மட்டும் ஏற்கக் கூடியது"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "12",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The number of days in ‘w’ weeks is\n(a) 30 + w\n(b) 30w\n(c) 7 + w\n(d) 7w",
+        "ta": "‘w’ வாரங்களில் உள்ள நாட்களின் எண்ணிக்கை\n(அ) 30 + w\n(ஆ) 30w\n(இ) 7 + w\n(ஈ) 7w"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "13",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The value of ‘x’ in the circle is\n(a) 6\n(b) 8\n(c) 21\n(d) 22",
+        "ta": "வட்டத்தில் ‘x’ இன் மதிப்பு\n(அ) 6\n(ஆ) 8\n(இ) 21\n(ஈ) 22"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "A circle divided into six sectors containing, clockwise, x, 2, 4, 7, 11 and 16."
+        }
+      ]
+    },
+    {
+      "questionNumber": "14",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The value of ‘y’ in y + 7 = 13 is\n(a) y = 5\n(b) y = 6\n(c) y = 7\n(d) y = 8",
+        "ta": "‘y + 7 = 13’ எனில் ‘y’ இன் மதிப்பு\n(அ) y = 5\n(ஆ) y = 6\n(இ) y = 7\n(ஈ) y = 8"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "15",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "6 less to ‘n’ gives 8 is represented as\n(a) n − 6 = 8\n(b) 6 − n = 8\n(c) 8 − n = 6\n(d) n − 8 = 6",
+        "ta": "‘n’ இலிருந்து 6 ஐக் கழிக்க 8 கிடைக்கிறது என்பதைக் குறிக்கும் கூற்று\n(அ) n − 6 = 8\n(ஆ) 6 − n = 8\n(இ) 8 − n = 6\n(ஈ) n − 8 = 6"
+      },
+      "blocks": []
+    }
+  ]
+}
