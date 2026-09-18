@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 1,
+  "exerciseNumber": "1.5",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) The difference between the smallest natural number and the smallest whole number is __________.\n(ii) 17 × __________ = 34 × 17\n(iii) When __________ is added to a number, it remains the same.\n(iv) Division by __________ is not defined.\n(v) Multiplication by __________ leaves a number unchanged.",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) மிகச் சிறிய இயல் எண்ணிற்கும் மிகச் சிறிய முழு எண்ணிற்கும் இடையே உள்ள வித்தியாசம் __________.\n(ii) 17 × __________ = 34 × 17\n(iii) ஓர் எண்ணுடன் __________ஐக் கூட்டும்போது, அந்த எண் மாறாமல் இருக்கும்.\n(iv) __________ ஆல் வகுப்பது என்பது வரையறுக்கப்படவில்லை.\n(v) ஓர் எண்ணை __________ ஆல் பெருக்கும்போது அந்த எண் மாறாமல் இருக்கும்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say True or False.\n(i) 0 is the identity for multiplication of whole numbers.\n(ii) Sum of two whole numbers is always less than their product.\n(iii) Both addition and multiplication are associative for whole numbers.\n(iv) Both addition and multiplication are commutative for whole numbers.\n(v) Multiplication is distributive over addition for whole numbers.",
+        "ta": "சரியா தவறா எனக் கூறுக.\n(i) முழு எண்களின் பெருக்கல் சமனி பூச்சியம் ஆகும்.\n(ii) இரு முழு எண்களின் கூடுதல் அதன் பெருக்குத் தொகையை விடக் குறைவானதாக இருக்கும்.\n(iii) முழு எண்களில் கூட்டல் மற்றும் பெருக்கல் ஆகியவை சேர்ப்புப் பண்புடையவை.\n(iv) முழு எண்களில் கூட்டல் மற்றும் பெருக்கல் ஆகியவை பரிமாற்றுப் பண்புடையவை.\n(v) முழு எண்களில் கூட்டலின் மீதான பெருக்கல் பங்கீட்டுப் பண்புடையது."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Name the property being illustrated in each of the cases given below.\n(i) 75 + 34 = 34 + 75\n(ii) (12 × 4) × 8 = 12 × (4 × 8)\n(iii) 50 + 0 = 50\n(iv) 50 × 1 = 50\n(v) 50 × 42 = 50 × 40 + 50 × 2",
+        "ta": "கீழ்க்காணும் வினாக்களில் பெறும் பண்பு யாது?\n(i) 75 + 34 = 34 + 75\n(ii) (12 × 4) × 8 = 12 × (4 × 8)\n(iii) 50 + 0 = 50\n(iv) 50 × 1 = 50\n(v) 50 × 42 = 50 × 40 + 50 × 2"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Use the properties of whole numbers and simplify.\n(i) 50 × 102\n(ii) 500 × 689 − 500 × 89\n(iii) 4 × 132 × 25\n(iv) 196 + 34 + 104",
+        "ta": "முழு எண்களின் பண்புகளைப் பயன்படுத்திச் சுருக்குக.\n(i) 50 × 102\n(ii) 500 × 689 − 500 × 89\n(iii) 4 × 132 × 25\n(iv) 196 + 34 + 104"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "(53 + 49) × 0 is\n(a) 102\n(b) 0\n(c) 1\n(d) 53 + 49 × 0",
+        "ta": "(53 + 49) × 0 என்பது\n(அ) 102\n(ஆ) 0\n(இ) 1\n(ஈ) 53 + 49 × 0"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "59/1 is\n(a) 1\n(b) 0\n(c) 1/59\n(d) 59",
+        "ta": "59/1 என்பது\n(அ) 1\n(ஆ) 0\n(இ) 1/59\n(ஈ) 59"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The product of a non-zero whole number and its successor is always\n(a) an even number\n(b) an odd number\n(c) zero\n(d) none of these",
+        "ta": "ஒரு பூச்சியமற்ற முழு எண் மற்றும் அதனுடைய தொடரியின் பெருக்குத் தொகை எப்போதும்\n(அ) ஓர் இரட்டை எண்\n(ஆ) ஓர் ஒற்றை எண்\n(இ) பூச்சியம்\n(ஈ) இவற்றுள் ஏதுமில்லை"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The whole number that does not have a predecessor is\n(a) 10\n(b) 0\n(c) 1\n(d) none of these",
+        "ta": "முன்னி இல்லாத ஒரு முழு எண்\n(அ) 10\n(ஆ) 0\n(இ) 1\n(ஈ) இவற்றுள் ஏதுமில்லை"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "Which of the following expressions is not zero?\n(a) 2 × 0\n(b) 0 + 0\n(c) 2 + 0\n(d) 0 − 0",
+        "ta": "பின்வரும் கோவைகளில் எது பூச்சியமல்ல?\n(அ) 2 × 0\n(ஆ) 0 + 0\n(இ) 2 + 0\n(ஈ) 0 − 0"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "Which of the following is not true?\n(a) (4237 + 5498) + 3439 = 4237 + (5498 + 3439)\n(b) (4237 × 5498) × 3439 = 4237 × (5498 × 3439)\n(c) 4237 + 5498 × 3439 = (4237 + 5498) × 3439\n(d) 4237 × (5498 + 3439) = (4237 × 5498) + (4237 × 3439)",
+        "ta": "பின்வருவனவற்றுள் எது உண்மை அல்ல?\n(அ) (4237 + 5498) + 3439 = 4237 + (5498 + 3439)\n(ஆ) (4237 × 5498) × 3439 = 4237 × (5498 × 3439)\n(இ) 4237 + 5498 × 3439 = (4237 + 5498) × 3439\n(ஈ) 4237 × (5498 + 3439) = (4237 × 5498) + (4237 × 3439)"
+      },
+      "blocks": []
+    }
+  ]
+}
