@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 5,
+  "exerciseNumber": "5.4",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The heights (in centimeters) of 40 children are.\n110 112 112 116 119 111 113 115 118 120\n110 113 114 111 114 113 110 120 118 115\n112 110 116 111 115 120 113 111 113 120\n115 111 116 112 110 111 120 111 120 111\nPrepare a tally marks table.",
+        "ta": "40 குழந்தைகளின் உயரங்கள் (செ.மீ.இல்) பின்வருமாறு.\n110 112 112 116 119 111 113 115 118 120\n110 113 114 111 114 113 110 120 118 115\n112 110 116 111 115 120 113 111 113 120\n115 111 116 112 110 111 120 111 120 111\nநேர்க்கோட்டுக் குறி அட்டவணை அமைக்கவும்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The following pictograph shows the total savings of a group of friends in a year. Each picture represents a saving of Rs.100. Answer the following questions.\n(i) What is the ratio of Ruby’s saving to that of Thasnim’s?\n(ii) What is the ratio of Kuzhali’s savings to that of others?\n(iii) How much is Iniya’s savings?\n(iv) Find the total amount of savings of all the friends?\n(v) Ruby and Kuzhali save the same amount. Say True or False.",
+        "ta": "ஓர் ஆண்டில் 5 நண்பர்கள் சேமித்த மொத்த தொகை பின்வரும் பட விளக்கப்படத்தில் காண்பிக்கப்பட்டுள்ளது. ஒரு படத்தின் மதிப்பு ₹100. பின்வரும் வினாக்களுக்கு விடையளிக்கவும்.\n(i) ரூபி மற்றும் தஸ்னிம் இவர்களின் சேமிப்புகளின் விகிதம் என்ன?\n(ii) குழலியின் சேமிப்பு மற்றும் மற்ற அனைவரின் சேமிப்புகளின் விகிதம் என்ன?\n(iii) இனியாவின் சேமிப்பு எவ்வளவு?\n(iv) அனைத்து நண்பர்களின் சேமிப்புத்தொகையைக் காண்க?\n(v) ரூபி மற்றும் குழலி ஆகியோர் ஒரே அளவுடைய தொகையைச் சேமித்தார்கள் என்பது சரியா, தவறா?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Savings pictograph. Key: one piggy-bank picture represents Rs.100. Ruby has 5 pictures; Malarkodi 7; Thasnim 4; Kuzhali 5; Iniya 3."
+        }
+      ]
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "There are 1000 students in a school. Data regarding the mode of transport of the students is given below. Draw a pictograph to represent the data.\nMode of Travel — On Foot — Bicycle — Scooter — Bus — Car\nNumber of Students — 350 — 300 — 150 — 100 — 100",
+        "ta": "ஒரு பள்ளியில் 1000 மாணவர்கள் உள்ளனர். இம்மாணவர்கள் பள்ளிக்கு வரும் விதம் பற்றிய தரவுகள் பின்வரும் அட்டவணையில் தரப்பட்டுள்ளன. இத்தரவுக்குப் பட விளக்கப்படம் வரைக.\nபள்ளிக்கு வரும் விதம் — நடைப் பயணம் — மிதிவண்டி — ஈருளி — பேருந்து — மகிழுந்து\nமாணவர்கள் எண்ணிக்கை — 350 — 300 — 150 — 100 — 100"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The prediction of Weather in the month of September is given below.\n(i) Make a frequency table of the types of weather by reading the calendar.\n(ii) How many days are either cloudy or partly cloudy?\n(iii) How many days do not have rain? Give two ways to find the answer?\n(iv) Find the ratio of the number of Sunny days to Rainy days.",
+        "ta": "செப்டம்பர் மாதத்தில் கணிக்கப்பட்ட வெப்பநிலை அட்டவணை பின்வருமாறு.\n(i) நாட்காட்டியைக் கவனித்து வானிலை வகைகளின் நிகழ்வெண் அட்டவணை அமைக்க.\n(ii) எத்தனை நாட்கள் மேக மூட்டமாகவோ அல்லது பகுதி மேக மூட்டமாகவோ இருக்கும்?\n(iii) எத்தனை நாட்களில் மழை இருக்காது? இரு வழிகளில் விடையைக் காண வழியைக் கூறுக.\n(iv) சூரிய ஒளிமிக்க நாட்களுக்கும் மழை நாட்களுக்கும் உள்ள விகிதம் என்ன?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "September calendar weather pictograph with legend Sunny, Partly Cloudy, Cloudy, Rainy. Sunny days: 1, 4, 8, 9, 13, 18, 19, 20, 24, 29. Partly Cloudy: 5, 10, 12, 21, 22, 27. Cloudy: 2, 3, 6, 11, 14, 23, 25, 26. Rainy: 7, 15, 16, 17, 28, 30."
+        }
+      ]
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The table shows the number of moons that orbit each of the planets in our solar system.\nPlanet — Mercury — Venus — Earth — Mars — Jupiter — Saturn — Uranus — Neptune\nNumber of Moons — 0 — 0 — 1 — 2 — 28 — 30 — 21 — 8\nMake a Bar graph for the above data.",
+        "ta": "ஒவ்வொரு கோளையும் சுற்றி வரும் நிலவுகளின் எண்ணிக்கைகள் பின்வரும் அட்டவணையில் கொடுக்கப்பட்டுள்ளன.\nகோள்கள் — புதன் — வெள்ளி — பூமி — செவ்வாய் — வியாழன் — சனி — யுரேனஸ் — நெப்டியூன்\nநிலவுகளின் எண்ணிக்கை — 0 — 0 — 1 — 2 — 28 — 30 — 21 — 8\nஇத்தரவுக்குப் பட்டை வரைபடம் வரைக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "26 students were interviewed to find out what they want to become in future. Their responses are given in the following table. Represent this data using Pictograph.",
+        "ta": "26 மாணவர்களிடம் அவர்களது எதிர்கால விருப்பம் அறிய நேர்காணல் நடத்தப்பட்டது. அவர்களுடைய விருப்பங்கள் பின்வரும் அட்டவணையில் கொடுக்கப்பட்டுள்ளன. இத்தரவுகளுக்குப் பட விளக்கப்படம் வரைக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Profession tally table: Teacher has 7 tallies; Pilot 3; Bank Manager 5; Doctor 3; Engineer 5; Other Professions 3."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Yasmin of class VI was given a task to count the number of books which are biographies, in her school library. The information collected by her is represented as follows. Observe the pictograph and answer the following questions.\n(i) Which title has the maximum number of biographies?\n(ii) Which title has the minimum number of biographies?\n(iii) Which title has exactly half the number of biographies as Novelists?\n(iv) How many biographies are there on the title of Sportspersons?\n(v) What is the total number of biographies in the library?",
+        "ta": "ஆறாம் வகுப்பிலுள்ள யாஸ்மினுக்கு அவரது பள்ளி நூலகத்திலுள்ள தன்வரலாற்று நூல்களை எண்ணும் பணி கொடுக்கப்பட்டது. அவரால் சேகரிக்கப்பட்ட நூல்களின் எண்ணிக்கை தரவுகள் பின் வருமாறு குறிப்பிடப்பட்டன. பட விளக்கப்படத்தைக் கவனித்துப் பின் வரும் வினாக்களுக்கு விடையளிக்கவும்.\n(i) எந்தத் தலைப்பில் அதிக எண்ணிக்கையில் தன்வரலாற்று நூல்கள் உள்ளன?\n(ii) எந்தத் தலைப்பில் குறைந்த எண்ணிக்கையில் தன்வரலாற்று நூல்கள் உள்ளன?\n(iii) புதினப் படைப்பாளிகள் எண்ணிக்கையில் பாதியளவே எண்ணிக்கை கொண்ட தன்வரலாற்று நூல்கள் எந்தத் தலைப்பில் உள்ளன?\n(iv) விளையாட்டு வீரர்கள் தலைப்பில் எத்தனை தன்வரலாற்று நூல்கள் உள்ளன?\n(v) நூலகத்தில் உள்ள மொத்த தன்வரலாற்று நூல்கள் எத்தனை?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Biography pictograph. Key: one full book-stack picture represents 20 books. Mathematicians show 1 full plus 1 half picture; Scientists 1 full; Novelists 2 full plus 1 half; Sportspersons 1 full plus 1 quarter; Politicians 1 full plus 3 quarters."
+        }
+      ]
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The bar graph illustrates the results of a survey conducted on vehicles crossing over a Toll Plaza in one hour. Observe the bar graph carefully and fill up the following table.",
+        "ta": "ஒரு சுங்கச்சாவடியில் 1 மணி நேரத்தில் கடந்து செல்லும் வண்டிகளின் தரவுகள் பட்டை வரைபடத்தில் காட்டப்பட்டுள்ளன. மேற்கண்ட பட்டை வரைபடத்தைக் கவனித்துப் பின்வரும் அட்டவணையை நிரப்புக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Bar graph titled Vehicles crossing over a Toll Plaza, scale 1 unit = 10 vehicles. Bars: Buses 40, Lorries 45, Cars 65, Vans 50, Two Wheelers 30, Others 15. The table below has columns Vehicles: Buses, blank header, Cars, Vans, blank header, Others, Total vehicles; Number of Vehicles row has blank, 45, blank, blank, 30, blank, blank."
+        }
+      ]
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The lengths (in the nearest centimetre) of 30 drumsticks are given as follows. Draw the bar graph showing the same information.",
+        "ta": "30 முருங்கைக் காய்களின் நீளங்கள் (செ.மீ.இல்) பின் வருமாறு கொடுக்கப்பட்டுள்ளன. இந்தத் தரவிற்குப் பட்டை வரைப்படம் வரைக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Length-frequency tally table for drumsticks. Lengths 24, 25, 26, 27, 28, 29, 30, 31 cm have frequencies 5, 0, 0, 6, 0, 8, 6, 5 respectively, shown using tally marks."
+        }
+      ]
+    }
+  ]
+}
