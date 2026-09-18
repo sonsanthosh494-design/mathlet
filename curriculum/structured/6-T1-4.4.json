@@ -1,0 +1,161 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 4,
+  "exerciseNumber": "4.4",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the type of lines marked in thick lines (Parallel, intersecting or perpendicular).\n(i) HOUSE\n(ii) MATCHBOX\n(iii) SCISSOR",
+        "ta": "தடித்து வரையப்பட்ட கோடுகளை (இணை, வெட்டு அல்லது செங்குத்துக் கோடுகள்) என வகைப்படுத்தி எழுதுக.\n(i) வீடு\n(ii) தீப்பெட்டி\n(iii) கத்தரி"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Three textbook figures with selected thick line segments: (i) a house labelled A-H, (ii) a matchbox labelled P-V, and (iii) a pair of scissors labelled M, N, O, P."
+        }
+      ]
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the parallel and intersecting line segments in the picture given below.",
+        "ta": "கீழே கொடுக்கப்பட்டுள்ள படத்தில் உள்ள இணைகோடுகள் மற்றும் வெட்டும் கோடுகளைக் காண்க."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "A rectangular cuboid/wireframe labelled A, B, C, D on the front face and E, F, G, H on the back face, with visible and dashed connecting edges."
+        }
+      ]
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Name the following angles as shown in the figure.\n(i) ∠1 =\n(ii) ∠2 =\n(iii) ∠3 =\n(iv) ∠1 + ∠2 =\n(v) ∠2 + ∠3 =\n(vi) ∠1 + ∠2 + ∠3 =",
+        "ta": "படத்தில் உள்ள பின்வரும் கோணங்களுக்குப் பெயரிடுக.\n(i) ∠1 =\n(ii) ∠2 =\n(iii) ∠3 =\n(iv) ∠1 + ∠2 =\n(v) ∠2 + ∠3 =\n(vi) ∠1 + ∠2 + ∠3 ="
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "All rays start at B. From lowest to highest they pass through C, D, E and A. Angle 1 is between BC and BD, angle 2 between BD and BE, and angle 3 between BE and BA."
+        }
+      ]
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Measure the angles of the given figures using protractor and identify the type of angle as acute, obtuse, right or straight.",
+        "ta": "கோணமானியைப் பயன்படுத்திக் கொடுக்கப்பட்ட படத்திலுள்ள கோணங்களை அளக்க. அவற்றைக் குறுங்கோணம், விரிகோணம், செங்கோணம் அல்லது நேர்கோணம் என வகைப்படுத்துக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Four printed angle figures labelled (i)-(iv): an L-shaped right-angle-looking figure, a narrow acute-looking angle, a straight angle on a line, and a wide obtuse-looking angle. Students are asked to measure them with a protractor."
+        }
+      ]
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "From the figures given below, classify the following pairs of angles into complementary and non complementary.",
+        "ta": "கீழே கொடுக்கப்பட்டுள்ள படங்களிலிருந்து, நிரப்புக் கோணங்கள் மற்றும் நிரப்புக் கோணங்கள் அல்லாத கோணச் சோடிகளை வகைப்படுத்துக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Four angle-pair figures: (i) 45° and 45°, (ii) 25° and 25°, (iii) 75° and 105°, and (iv) 38° and 52°."
+        }
+      ]
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "From the figures given below, classify the following pairs of angles into supplementary and non supplementary.",
+        "ta": "கீழே கொடுக்கப்பட்ட படங்களிலிருந்து, மிகை நிரப்புக் கோணங்கள் மற்றும் மிகை நிரப்புக் கோணங்கள் அல்லாத கோணச் சோடிகளை வகைப்படுத்துக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Four angle-pair figures: (i) 30° and 120°, (ii) 85° and 95°, (iii) 120° and 110°, and (iv) 150° and 30°."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "From the figure\n(i) name a pair of complementary angles\n(ii) name a pair of supplementary angles",
+        "ta": "படத்திலிருந்து,\n(i) நிரப்புக் கோணச் சோடிகளுக்குப் பெயரிடுக.\n(ii) மிகை நிரப்புக் கோணச் சோடிகளுக்குப் பெயரிடுக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "All rays meet at A: AF extends left, AC extends right, AD extends vertically upward and is perpendicular to AC, AE points up-left, and AB points down-right along the same straight line as AE."
+        }
+      ]
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Think and write an object having\n• Parallel lines      (1) __________ (2) __________ (3) __________\n• Perpendicular lines (1) __________ (2) __________ (3) __________\n• Intersecting lines  (1) __________ (2) __________ (3) __________",
+        "ta": "பின்வரும் கோடுகளை உள்ளடக்கியப் பொருட்களைச் சிந்தித்து எழுதுக.\n• இணைக் கோடுகள்      (1) __________ (2) __________ (3) __________\n• செங்குத்துக் கோடுகள் (1) __________ (2) __________ (3) __________\n• வெட்டும் கோடுகள்    (1) __________ (2) __________ (3) __________"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Which angle is equal to twice its complement?",
+        "ta": "எந்தக் கோணம் அதன் நிரப்புக் கோணத்தின் இருமடங்கிற்குச் சமமாக இருக்கும்?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Which angle is equal to two-third of its supplement?",
+        "ta": "எந்தக் கோணம் அதன் மிகை நிரப்புக் கோணத்தின் மூன்றில் இருமடங்கிற்குச் சமமாக இருக்கும்?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "11",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Given two angles are supplementary and one angle is 20º more than other. Find the two angles.",
+        "ta": "இரண்டு கோணங்கள் மிகை நிரப்புக் கோணங்களாகவும், அதில் ஒரு கோணம் மற்றொரு கோணத்தை விட 20° அதிகமாக உள்ளது எனில், அக்கோணங்களைக் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "12",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Two complementary angles are in ratio 7 : 2. Find the angles.",
+        "ta": "இரண்டு நிரப்புக் கோணங்கள் 7 : 2 என்ற விகிதத்தில் உள்ளன எனில் அக்கோணங்களைக் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "13",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Two supplementary angles are in ratio 5 : 4. Find the angles.",
+        "ta": "இரண்டு மிகை நிரப்புக் கோணங்கள் 5 : 4 என்ற விகிதத்தில் உள்ளன எனில், அக்கோணங்களைக் காண்க."
+      },
+      "blocks": []
+    }
+  ]
+}
