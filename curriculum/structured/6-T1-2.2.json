@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 2,
+  "exerciseNumber": "2.2",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Complete the following pattern.\n9 − 1 =\n98 − 21 =\n987 − 321 =\n9876 − 4321 =\n98765 − 54321 =\nWhat comes next?",
+        "ta": "பின்வரும் எண் அமைப்பினை நிரப்புக.\n9 − 1 =\n98 − 21 =\n987 − 321 =\n9876 − 4321 =\n98765 − 54321 =\nஅடுத்து வரும் எண் அமைப்பை எழுதுக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "A piece of wire is ‘12s’ cm long. What will be the length of the side, if it is formed as\n(i) an equilateral triangle\n(ii) a square",
+        "ta": "ஒரு கம்பியின் நீளம் ‘12s’ செ.மீ. அதைப் பயன்படுத்திப் பின்வரும் வடிவங்களை உருவாக்கினால் அவற்றின் பக்கங்களின் நீளத்தைக் காண்க.\n(i) சமபக்க முக்கோணம்\n(ii) சதுரம்"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Identify the value of the shapes and figures in the table given below and verify their addition horizontally and vertically.\nRow 1: ★, 🙂, 🙂, ★ = 30\nRow 2: ★, ★, △, △ = 36\nRow 3: ★, △, 🙂, 🙂 = ___\nRow 4: ★, 🙂, △, 🙂 = ___\nColumn 1 total = 32; the remaining column totals and the grand total are blank.",
+        "ta": "பின்வரும் அட்டவணையிலுள்ள வடிவங்கள் மற்றும் உருவங்களின் மதிப்பைக் காண்க. மேலும் அவற்றின் கிடைமட்ட மற்றும் செங்குத்து வரிசைகளின் கூடுதலைச் சரிபார்க்க.\nவரிசை 1: ★, 🙂, 🙂, ★ = 30\nவரிசை 2: ★, ★, △, △ = 36\nவரிசை 3: ★, △, 🙂, 🙂 = ___\nவரிசை 4: ★, 🙂, △, 🙂 = ___\nமுதல் செங்குத்து வரிசையின் கூடுதல் = 32; மீதமுள்ள செங்குத்து கூடுதல்கள் மற்றும் மொத்தம் காலியாக உள்ளன."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "A 4 by 4 grid of star, smiley and triangle symbols. Row 1 is star-smiley-smiley-star = 30; row 2 star-star-triangle-triangle = 36; row 3 star-triangle-smiley-smiley; row 4 star-smiley-triangle-smiley; first column total is 32."
+        }
+      ]
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The table given below shows the results of the matches played by 8 teams in a Kabaddi championship tournament.\nTeams — A — B — C — D — E — F — G — H\nTotal Matches played — 8 — 7 — n — a — 9 — 10 — 8 — y\nMatches won — 5 — 6 — 4 — 7 — b — 6 — x — 3\nMatches lost — k — m — 6 — 2 — 3 — c — 4 — 6\nFind the value of all the variables in the table given above.",
+        "ta": "பின்வரும் அட்டவணையில், கபடி விளையாட்டுத் தொடர் போட்டியில் 8 அணிகளின் முடிவுகள் கொடுக்கப்பட்டுள்ளன.\nஅணிகள் — A — B — C — D — E — F — G — H\nபங்கேற்ற போட்டிகளின் எண்ணிக்கை — 8 — 7 — n — a — 9 — 10 — 8 — y\nவெற்றி பெற்ற போட்டிகள் — 5 — 6 — 4 — 7 — b — 6 — x — 3\nதோல்வி அடைந்த போட்டிகள் — k — m — 6 — 2 — 3 — c — 4 — 6\nஅட்டவணையில் உள்ள மாறிகளின் மதிப்பைக் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Gopal is 8 years younger to Karnan. If the sum of their ages is 30, how old is Karnan?",
+        "ta": "கோபால், கர்ணனை விட 8 வயது இளையவன். அவர்களின் வயதுகளின் கூடுதல் 30 எனில், கர்ணனின் வயது என்ன?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The rectangles made of identical square blocks with varying lengths but having only two square blocks as width are given below.\n(i) How many small size squares are there in each of the rectangles P, Q, R and S?\n(ii) Fill in the boxes.\nRectangle — P — Q — R — S — T\nNumber of small size squares along the breadth — 2 — 2 — ? — 2 — 2\nNumber of squares along the length — 1 — 4 — 3 — ? — x\nTotal number of squares in rectangle — ? — 8 — ? — 10 — ?",
+        "ta": "ஒரே அளவுள்ள சதுரக் கட்டங்களைக் கொண்டு அமைக்கப்பட்ட பின்வரும் செவ்வகங்கள் ஒரே அளவு அகலமும் வெவ்வேறான நீளமும் கொண்டுள்ளன.\n(i) P, Q, R மற்றும் S இல் எத்தனை சிறிய சதுரங்கள் உள்ளன?\n(ii) கீழ்க்காணும் அட்டவணையில் விடுபட்ட கட்டங்களை நிரப்புக.\nசெவ்வகம் — P — Q — R — S — T\nஅகலத்தைப் பொறுத்துச் சதுரங்களின் எண்ணிக்கை — 2 — 2 — ? — 2 — 2\nநீளத்தைப் பொறுத்துச் சதுரங்களின் எண்ணிக்கை — 1 — 4 — 3 — ? — x\nசெவ்வகத்தில் உள்ள மொத்தச் சதுரங்களின் எண்ணிக்கை — ? — 8 — ? — 10 — ?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Rectangle diagrams P, Q, R and S are made from two rows of identical squares with lengths 1, 4, 3 and 5 squares respectively. T is shown as a two-row rectangle with unspecified length."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the variables from the clues given below and solve the cross-word puzzle.\nGrid (■ = blocked cell):\nx · ■ t · ■\n· ■ z · ■ p\nv · · ■ k ·\n· ■ ■ u · ■\n■ ■ a · ■ m\n■ s · · ■ ·\nAcross:\n• x + 40 gives 100\n• 7 reduced from t gives 31\n• z is 5 added 5 times\n• v is the whole number zero plus number of days in a ordinary year\n• k is 24 added to 25\n• u is 2 added to two times 11 gives the number of hours in a day\n• a is 20 more to 40\n• s minus 1 gives 246 is the number of letters in Tamil language\nDown:\n• x is 1005 multiplied by 6\n• t ÷ 7 = 5\n• p is the predecessor of first 3 digit number\n• z is the number of weeks in a year (digits reversed)\n• k is 11 times 4\n• u is product of 23 and 9\n• a is 4 added to the product of 12 and 5\n• m is the successor of 9",
+        "ta": "கீழே கொடுக்கப்பட்டுள்ள மாறிகளுக்கான குறிப்புகளைப் பயன்படுத்திக் குறுக்கெழுத்துப் புதிரை நிறைவு செய்க.\nகட்டம் (■ = மறைக்கப்பட்ட கட்டம்):\nx · ■ t · ■\n· ■ z · ■ p\nv · · ■ k ·\n· ■ ■ u · ■\n■ ■ a · ■ m\n■ s · · ■ ·\nஇடமிருந்து வலமாக:\n• x + 40 இன் மதிப்பு 100\n• ‘t’ இலிருந்து 7 ஐக் கழிக்கக் கிடைக்கும் மதிப்பு 31\n• z என்பது 5 ஐ 5 முறை கூட்டக் கிடைப்பது\n• v என்பது 0 என்ற முழு எண்ணுடன் சாதாரண ஆண்டிலுள்ள நாட்களின் எண்ணிக்கையைக் கூட்டக் கிடைப்பது\n• k என்பது 25 உடன் 24 ஐக் கூட்டக் கிடைப்பது\n• u என்பது 11 இன் இரு மடங்குடன் 2 ஐக் கூட்டக் கிடைக்கும் எண்ணானது, ஒரு நாளுக்குரிய மொத்த மணிநேரங்களின் எண்ணிக்கை\n• a என்பது 40 ஐ விட 20 அதிகம்\n• s இலிருந்து 1 ஐக் கழிக்க 246 கிடைப்பது என்பது தமிழிலுள்ள மொத்த எழுத்துக்களின் எண்ணிக்கை ஆகும்\nமேலிருந்து கீழாக:\n• x என்பது 1005 ஐ 6 ஆல் பெருக்கக் கிடைப்பது\n• t ÷ 7 = 5\n• p என்பது முதல் 3 இலக்க எண்ணின் முன்னி\n• z என்பது ஓர் ஆண்டில் உள்ள வாரங்களின் எண்ணிக்கை (இலக்கங்கள் இடம் மாறி உள்ளன)\n• k என்பது 4 இன் பதினொன்று மடங்காகும்\n• u என்பது 23 மற்றும் 9 இன் பெருக்கற்பலன்\n• 12 மற்றும் 5 ஆகியவற்றின் பெருக்கற்பலனுடன் 4 ஐ கூட்டக் கிடைப்பது a ஆகும்\n• m என்பது 9 இன் தொடரி"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Six by six crossword grid with starting variables x, t, z, p, v, k, u, a, m and s positioned as represented in the prompt."
+        }
+      ]
+    }
+  ]
+}
