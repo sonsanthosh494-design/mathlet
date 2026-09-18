@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 3,
+  "exerciseNumber": "3.1",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) Ratio of ₹3 to ₹5 = __________.\n(ii) Ratio of 3 m to 200 c.m = __________.\n(iii) Ratio of 5 k.m 400 m to 6 k.m = __________.\n(iv) Ratio of 75 paise to ₹2 = __________.",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) ₹3 இக்கும் ₹5 இக்கும் உள்ள விகிதம் __________.\n(ii) 3 மீ இக்கும் 200 செமீ இக்கும் உள்ள விகிதம் __________.\n(iii) 5 கி.மீ இக்கும் 400 மீ இக்கும் உள்ள விகிதம் __________.\n(iv) 75 பைசாவுக்கும் ₹2 இக்கும் உள்ள விகிதம் __________."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say whether the following statements are True or False.\n(i) The ratio of 130 c.m to 1 m is 13 : 10.\n(ii) One of the terms in a ratio cannot be 1.",
+        "ta": "கீழ்க்காணும் கூற்றுகள் சரியா தவறா எனக் கூறுக.\n(i) 130 செ.மீ இக்கும் 1 மீ இக்கும் உள்ள விகிதம் 13 : 10.\n(ii) விகிதத்தின் ஏதேனும் ஓர் உறுப்பின் மதிப்பு 1 ஆக இருக்காது."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the simplified form of the following ratios.\n(i) 15 : 20\n(ii) 32 : 24\n(iii) 7 : 15\n(iv) 12 : 27\n(v) 75 : 100",
+        "ta": "கீழ்க்காணும் விகிதங்களுக்கு எளிய வடிவம் காண்க.\n(i) 15 : 20\n(ii) 32 : 24\n(iii) 7 : 15\n(iv) 12 : 27\n(v) 75 : 100"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Akilan walks 10 k.m in an hour while Selvi walks 6 km in an hour. Find the simplest ratio of the distance covered by Akilan to that of Selvi.",
+        "ta": "அகிலன் 1 மணி நேரத்தில் 10 கி.மீ நடக்கிறான். செல்வி 1 மணி நேரத்தில் 6 கி.மீ நடக்கிறாள். எனில், அகிலன் மற்றும் செல்வி நடந்த தொலைவுகளுக்கு இடையே உள்ள விகிதத்தை எளிய வடிவில் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The cost of parking a bicycle is ₹5 and the cost of parking a scooter is ₹15. Find the simplest ratio of the parking cost of a bicycle to that of a scooter.",
+        "ta": "ஒரு மிதிவண்டியின் நிறுத்தக் கட்டணம் ₹5. மேலும், ஓர் இருசக்கர மோட்டார் வாகனத்தின் நிறுத்தக் கட்டணம் ₹15. மிதிவண்டி மற்றும் இருசக்கர மோட்டார் வாகன நிறுத்தக் கட்டணங்களுக்கு இடையே உள்ள விகிதத்தைக் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Out of 50 students in a class, 30 are boys. Find the ratio of\n(i) number of boys to the number of girls.\n(ii) number of girls to the total number of students.\n(iii) number of boys to the total number of students.",
+        "ta": "ஒரு வகுப்பில் உள்ள 50 மாணாக்கர்களில் 30 பேர் மாணவர்கள் எனில்,\n(i) மாணவர்களின் எண்ணிக்கைக்கும் மாணவிகளின் எண்ணிக்கைக்கும் இடையேயுள்ள விகிதம் காண்க.\n(ii) மாணவிகளின் எண்ணிக்கைக்கும் மொத்த மாணாக்கர்களின் எண்ணிக்கைக்கும் இடையேயுள்ள விகிதம் காண்க.\n(iii) மாணவர்களின் எண்ணிக்கைக்கும் மொத்த மாணாக்கர்களின் எண்ணிக்கைக்கும் இடையேயுள்ள விகிதம் காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The ratio of ₹1 to 20 paise is __________.\n(a) 1 : 5\n(b) 1 : 2\n(c) 2 : 1\n(d) 5 : 1",
+        "ta": "₹1 இக்கும் 20 பைசாவுக்கும் உள்ள விகிதம் __________.\n(அ) 1 : 5\n(ஆ) 1 : 2\n(இ) 2 : 1\n(ஈ) 5 : 1"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The ratio of 1 l to 50 ml is __________.\n(a) 1 : 5\n(b) 1 : 20\n(c) 20 : 1\n(d) 5 : 1",
+        "ta": "1 லி இக்கும் 50 மி.லி இக்கும் உள்ள விகிதம் __________.\n(அ) 1 : 5\n(ஆ) 1 : 20\n(இ) 20 : 1\n(ஈ) 5 : 1"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The length and breadth of a window are in 1m and 70 cm respectively. The ratio of the length to the breadth is ____________.\n(a) 1 : 7\n(b) 7 : 1\n(c) 7 : 10\n(d) 10 : 7",
+        "ta": "ஒரு சன்னலின் நீள அகலங்கள் முறையே 1 மீ மற்றும் 70 செ.மீ எனில் நீளத்திற்கும் அகலத்திற்கும் உள்ள விகிதம் ____________.\n(அ) 1 : 7\n(ஆ) 7 : 1\n(இ) 7 : 10\n(ஈ) 10 : 7"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The ratio of the number of sides of a triangle to the number of sides of a rectangle is\n(a) 4 : 3\n(b) 3 : 4\n(c) 3 : 5\n(d) 3 : 2",
+        "ta": "முக்கோணம் மற்றும் செவ்வகத்தின் பக்கங்களின் எண்ணிக்கைகளுக்கு இடையேயுள்ள விகிதம்\n(அ) 4 : 3\n(ஆ) 3 : 4\n(இ) 3 : 5\n(ஈ) 3 : 2"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "11",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "If Azhagan is 50 years old and his son is 10 years old then the simplest ratio between the age of Azhagan to his son is\n(a) 10 : 50\n(b) 50 : 10\n(c) 5 : 1\n(d) 1 : 5",
+        "ta": "அழகனின் வயது 50 மற்றும் அவரது மகனின் வயது 10 எனில் அழகன் மற்றும் அவரது மகனின் வயதுக்கான விகிதத்தின் எளிய வடிவம்\n(அ) 10 : 50\n(ஆ) 50 : 10\n(இ) 5 : 1\n(ஈ) 1 : 5"
+      },
+      "blocks": []
+    }
+  ]
+}
