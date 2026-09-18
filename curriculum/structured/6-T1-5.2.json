@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 5,
+  "exerciseNumber": "5.2",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) If one football picture represents 100 balls then one-and-a-half football pictures represents __________ balls.\n(ii) If 200 is represented by one cricket-bat picture then 600 is represented by __________.\n(iii) Representation of data by using pictures is known as __________.",
+        "ta": "கோடிட்ட இடத்தை நிரப்புக.\n(i) ஒரு கால்பந்து படம் நூறு பந்துகளைக் குறிக்கும் எனில் ஒன்றரை கால்பந்து படங்கள் ________ பந்துகளைக் குறிக்கும்.\n(ii) 200 என்பது ஒரு மட்டைப் படத்தால் குறிக்கப்பட்டால் 600 என்பது ________ ஆல் குறிக்கப்படும்.\n(iii) படங்களைக் கொண்டு தரவுகளைக் குறித்தல் ________ எனப்படும்."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Subpart (i) shows one full football icon representing 100 balls, followed by one full football icon plus a half football icon. Subpart (ii) shows one cricket-bat icon representing 200."
+        }
+      ]
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Draw a pictograph for the given data.\nMonth — June — July — August — September\nNumber of Computers sold — 300 — 450 — 600 — 550\n(Choose your own suitable scale)",
+        "ta": "கொடுக்கப்பட்ட தரவுகளுக்குப் பட விளக்கப்படம் வரைக.\nமாதம் — ஜூன் — ஜூலை — ஆகஸ்டு — செப்டம்பர்\nவிற்பனையான கணினிகளின் எண்ணிக்கை — 300 — 450 — 600 — 550\nஉனக்கு ஏற்றாற்போல் அளவுத் திட்டத்தை எடுத்துக்கொள்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The following table shows the number of tourists who visited the places in the month of May. Draw a pictograph.\nPlace — Mahabalipuram — Vedanthangal — Hogenakkal — Ooty\nNumber of Tourists — 20,000 — 15,000 — 40,000 — 35,000\n(Choose your own suitable scale)",
+        "ta": "மே மாதத்தில், சுற்றுலாப் பயணிகள் பார்வையிட்ட இடங்கள் குறித்துக் கீழே கொடுக்கப்பட்டுள்ளது. இதற்குப் பட விளக்கப்படம் ஒன்று வரைக.\nஇடம் — மகாபலிபுரம் — வேடந்தாங்கல் — ஒகேனக்கல் — ஊட்டி\nபயணிகளின் எண்ணிக்கை — 20,000 — 15,000 — 40,000 — 35,000\nஉனக்குத் தகுந்தாற்போல் அளவுத் திட்டத்தை எடுத்துக்கொள்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The following Pictograph shows the number of students playing different games in a school. Answer the following questions.\n(i) Which is the most popular game among the students?\n(ii) Find the number of students playing Kabaddi.\n(iii) Which two games are played by equal number of students?\n(iv) What is the difference between the number of students playing Kho-Kho and Hockey?\n(v) Which is the least popular game among the students?",
+        "ta": "மாணவர்கள் பள்ளியில் விளையாடும் பல விளையாட்டுகளை இந்தப் பட விளக்கப்படம் காட்டுகிறது. கீழே உள்ள வினாக்களுக்கு விடையளிக்கவும்.\n(i) மாணவர்கள் அதிகம் விரும்பி விளையாடும் விளையாட்டு எது?\n(ii) கபடி விளையாடும் மாணவர்களின் எண்ணிக்கையைக் காண்க.\n(iii) மாணவர்கள் சம எண்ணிக்கையில் விளையாடும் இரு விளையாட்டுகள் எவை?\n(iv) கோ-கோ மற்றும் ஹாக்கி ஆகிய விளையாட்டுகள் விளையாடும் மாணவர்களின் எண்ணிக்கையில் உள்ள வித்தியாசம் எவ்வளவு?\n(v) மாணவர்களிடையே மிகக்குறைந்த விருப்பத்தைப் பெற்ற விளையாட்டு எது?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Pictograph key: one student picture represents 10 students. Kho-Kho has 9 student pictures; Kabaddi has 11; Basketball has 3; Volleyball has 5; Hockey has 9."
+        }
+      ]
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The representation of ‘one picture to many objects’ in a Pictograph is called _______.\n(a) Tally mark\n(b) Pictoword\n(c) Scaling\n(d) Frequency",
+        "ta": "பட விளக்கப்படத்தில் ஒரு படத்தின் வழியாகப் பல பொருட்களைக் குறித்தல் ______ எனப்படும்.\n(அ) நேர்க்கோட்டுக் குறிகள்\n(ஆ) பிக்டோ வேர்டு\n(இ) அளவிடுதல்\n(ஈ) நிகழ்வெண்"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "A Pictograph is also known as __________.\n(a) Pictoword\n(b) Pictogram\n(c) Pictophrase\n(d) Pictograft",
+        "ta": "பட விளக்கப்படத்தை ஆங்கிலத்தில் __________ எனவும் அழைக்கலாம்.\n(அ) Pictoword\n(ஆ) Pictogram\n(இ) Pictophrase\n(ஈ) Pictograft"
+      },
+      "blocks": []
+    }
+  ]
+}
