@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 1,
+  "exerciseNumber": "1.4",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) The nearest 100 of 843 is ________________.\n(ii) The nearest 1000 of 756 is _______________.\n(iii) The nearest 10000 of 85654 is ____________.",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) 843 இன் அருகிலுள்ள 100 இன் மதிப்பு ___________.\n(ii) 756 இன் அருகிலுள்ள 1000 இன் மதிப்பு ___________.\n(iii) 85654 இன் அருகிலுள்ள 10000 இன் மதிப்பு ___________."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "TRUE_FALSE",
+      "translations": {
+        "en": "Say True or False.\n(i) 8567 is rounded off as 8600 to the nearest 10.\n(ii) 139 is rounded off as 100 to the nearest 100.\n(iii) 1,70,51,972 is rounded off as 1,70,00,000 to the nearest lakh.",
+        "ta": "சரியா, தவறா எனக் கூறுக.\n(i) 8567 ஆனது 8600 என அருகிலுள்ள 10 இக்கு முழுமைப்படுத்தப்பட்டுள்ளது.\n(ii) 139 ஆனது 100 என அருகிலுள்ள 100 இக்கு முழுமைப்படுத்தப்பட்டுள்ளது.\n(iii) 1,70,51,972 ஆனது 1,70,00,000 என அருகிலுள்ள இலட்சத்திற்கு முழுமைப்படுத்தப்பட்டுள்ளது."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Round off the following to the given nearest place.\n(i) 4,065; hundred\n(ii) 44,555; thousand\n(iii) 86,943; ten thousand\n(iv) 50,81,739; lakh\n(v) 33,75,98,482; ten crore",
+        "ta": "பின்வரும் எண்களைக் கொடுக்கப்பட்ட இட மதிப்பிற்கு முழுமைப்படுத்துக.\n(i) 4,065; நூறு\n(ii) 44,555; ஆயிரம்\n(iii) 86,943; பத்தாயிரம்\n(iv) 50,81,739; இலட்சம்\n(v) 33,75,98,482; பத்துக் கோடி"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Estimate the sum of 157826 and 32469 rounded off to the nearest ten thousand.",
+        "ta": "157826 மற்றும் 32469 இன் கூட்டலைப் பத்தாயிரத்திற்கு முழுமையாக்கி உத்தேச மதிப்பு காண்க."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Estimate by rounding off each number to the nearest hundred.\n(i) 8074 + 4178\n(ii) 1768977 + 130589",
+        "ta": "ஒவ்வோர் எண்ணையும் அருகிலுள்ள நூறுகளுக்கு முழுமைப்படுத்துக.\n(i) 8074 + 4178\n(ii) 1768977 + 130589"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The population of a city was 43,43,645 in the year 2001 and 46,81,087 in the year 2011. Estimate the increase in population by rounding off to the nearest thousand.",
+        "ta": "ஒரு நகரத்தில் 2001ஆம் ஆண்டு மக்கள் தொகை 43,43,645 ஆகவும் 2011 ஆம் ஆண்டில் 46,81,087 ஆகவும் இருந்தது. அதிகரித்துள்ள மக்கள் தொகையின் உத்தேச மதிப்பை ஆயிரங்களில் முழுமையாக்குக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The number which on rounding off to the nearest thousand gives 11000 is\n(a) 10345\n(b) 10855\n(c) 11799\n(d) 10056",
+        "ta": "ஓர் எண்ணை ஆயிரங்களில் முழுமையாக்கினால் கிடைப்பது 11000 எனில் அந்த எண்\n(அ) 10345\n(ஆ) 10855\n(இ) 11799\n(ஈ) 10056"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The estimation to the nearest hundred of 76812 is\n(a) 77000\n(b) 76000\n(c) 76800\n(d) 76900",
+        "ta": "76812 இன் அருகிலுள்ள நூறுகளின் உத்தேச மதிப்பு\n(அ) 77000\n(ஆ) 76000\n(இ) 76800\n(ஈ) 76900"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The number 9785764 is rounded off to the nearest lakh as\n(a) 9800000\n(b) 9786000\n(c) 9795600\n(d) 9795000",
+        "ta": "9785764 இன் அருகிலுள்ள இலட்சத்தின் உத்தேச மதிப்பு\n(அ) 9800000\n(ஆ) 9786000\n(இ) 9795600\n(ஈ) 9795000"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The estimated difference of 167826 and 2765 rounded off to the nearest thousand is\n(a) 180000\n(b) 165000\n(c) 140000\n(d) 155000",
+        "ta": "167826 மற்றும் 2765 ஆகியவற்றின் கழித்தலை அருகிலுள்ள ஆயிரங்களுக்கு முழுமையாக்கக் கிடைக்கும் உத்தேச மதிப்பு\n(அ) 180000\n(ஆ) 165000\n(இ) 140000\n(ஈ) 155000"
+      },
+      "blocks": []
+    }
+  ]
+}
