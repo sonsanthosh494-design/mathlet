@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 5,
+  "exerciseNumber": "5.1",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "FILL_BLANK",
+      "translations": {
+        "en": "Fill in the blanks.\n(i) The collected information is called __________.\n(ii) An example of a Primary Data is __________.\n(iii) An example of a Secondary Data is __________.\n(iv) The tally marks for number 8 in standard form is __________.",
+        "ta": "கோடிட்ட இடங்களை நிரப்புக.\n(i) திரட்டப்பட்ட தகவல்கள் _________ எனப்படும்.\n(ii) முதல் நிலைத் தரவிற்கு ஓர் எடுத்துக்காட்டு ________.\n(iii) இரண்டாம் நிலைத் தரவிற்கு ஓர் எடுத்துக்காட்டு ________.\n(iv) 8 என்ற எண்ணுக்கான நேர்க்கோட்டுக் குறி ___________."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Viji threw a die 30 times and noted down the result each time as follows. Prepare a table on the numbers shown using Tally Marks.\n1 4 3 5 5 6 6 4 3 5 4 5 6 5 2\n4 2 6 5 5 6 6 4 5 6 6 5 4 1 1",
+        "ta": "விஜி ஒரு பகடையை 30 முறைகள் உருட்டும்போது கிடைக்கும் விளைவுகளைப் பின்வருமாறு குறித்துள்ளார். அதற்கு நேர்க்கோட்டுக் குறி அட்டவணை அமைக்கவும்.\n1 4 3 5 5 6 6 4 3 5 4 5 6 5 2\n4 2 6 5 5 6 6 4 5 6 6 5 4 1 1"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The following list tells colours liked by 25 students. Prepare a table using Tally Marks.\nRed Blue White Grey White\nGreen Grey Blue Green Grey\nBlue Grey Red Green Red\nBlue Blue Green Blue Green\nGrey Grey Green Grey Red",
+        "ta": "பின்வரும் வண்ணங்கள் 25 மாணவர்களால் விரும்பப்படுகின்றன. அத்தரவுக்கு நேர்க்கோட்டுக் குறி அட்டவணை அமைக்கவும்.\nசிவப்பு நீலம் வெள்ளை சாம்பல் வெள்ளை\nபச்சை சாம்பல் நீலம் பச்சை சாம்பல்\nநீலம் சாம்பல் சிவப்பு பச்சை சிவப்பு\nநீலம் நீலம் பச்சை நீலம் பச்சை\nசாம்பல் சாம்பல் பச்சை சாம்பல் சிவப்பு"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "The following are the marks obtained by 30 students in a class test out of 20 in Mathematics subject.\n11 12 13 12 12 15 16 17 18 12\n20 13 13 14 14 14 15 15 15 15\n16 16 16 15 14 13 12 11 19 17\nPrepare a table using Tally Marks.",
+        "ta": "20 மதிப்பெண்களுக்கு நடத்தப்பட்ட கணித வகுப்புத் தேர்வில் 30 மாணவர்கள் பெற்ற மதிப்பெண்கள் பின் வருமாறு.\n11 12 13 12 12 15 16 17 18 12\n20 13 13 14 14 14 15 15 15 15\n16 16 16 15 14 13 12 11 19 17\nநேர்க்கோட்டுக் குறி அட்டவணை அமைக்கவும்."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "The table shows the number of calls recorded by a Fire Service Station in one year. Complete the table and answer the following questions.\n(i) Which type of call was recorded the most?\n(ii) Which type of call was recorded the least?\n(iii) How many calls were recorded in all?\n(iv) How many calls were recorded as False Alarms?",
+        "ta": "ஓர் ஆண்டில் ஒரு தீயணைப்பு நிலையத்தில் பதிவு செய்யப்பட்ட அழைப்புகளின் எண்ணிக்கை பின்வரும் அட்டவணையில் உள்ளது. அட்டவணையை நிறைவு செய்து கீழ்க்காணும் வினாக்களுக்கு விடையளிக்கவும்.\n(i) எந்த வகை அழைப்பு மிக அதிகமாகப் பதிவு செய்யப்பட்டுள்ளது?\n(ii) எந்த வகை அழைப்பு மிகக் குறைவாகப் பதிவு செய்யப்பட்டுள்ளது?\n(iii) பதிவு செய்யப்பட்ட மொத்த அழைப்புகள் எத்தனை?\n(iv) எத்தனை அழைப்புகள் தவறான அறிவிப்பு மணிக்குப் பதிவு செய்யப்பட்டன?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Fire Service table with columns Types of Calls, Tally Marks, Frequency. Building Fires shows one group of five tallies plus one tally; Other Fires shows two groups of five tallies plus one tally; Hazardous Materials has frequency 7 with tally blank; Rescues has frequency 4 with tally blank; False Alarms shows one group of five tallies plus two tallies; Total row is blank."
+        }
+      ]
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The tally marks for the number 7 in standard form is __________.\n(a) 7\n(b) the standard tally form for 7\n(c) seven tick marks\n(d) a group of five tallies plus one tally",
+        "ta": "திட்ட வடிவில் 7 என்ற எண் மதிப்பிற்கான நேர்க்கோட்டுக்குறிகள் __________ எனக் குறிக்கப்படுகின்றன.\n(அ) 7\n(ஆ) 7-ஐக் குறிக்கும் திட்ட நேர்க்கோட்டுக் குறிகள்\n(இ) ஏழு சரிக்குறிகள்\n(ஈ) ஐந்து நேர்க்கோட்டுக் குறிகளுடன் மேலும் ஒரு குறி"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "For option (b), the source shows one standard group of five tally marks crossed by the fifth mark, followed by two vertical tally marks. Option (c) shows seven check marks. Option (d) shows one standard group of five tallies followed by one vertical tally."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "MCQ",
+      "translations": {
+        "en": "The tally marks shown represent the number count\n(a) 5\n(b) 8\n(c) 9\n(d) 10",
+        "ta": "கொடுக்கப்பட்ட நேர்க்கோட்டுக்குறி குறிக்கும் எண் மதிப்பு என்ன?\n(அ) 5\n(ஆ) 8\n(இ) 9\n(ஈ) 10"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "The source tally consists of one standard group of five tallies followed by four vertical tallies."
+        }
+      ]
+    }
+  ]
+}
