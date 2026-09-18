@@ -54,7 +54,6 @@ export default function ContentBlocks({ blocks }: { blocks: unknown }) {
                   <strong style={{ fontSize: "14px", color: "var(--ink)" }}>{alt}</strong>
                 </div>
               )}
-              {src && alt && <figcaption>{alt}</figcaption>}
             </figure>
           );
         }
