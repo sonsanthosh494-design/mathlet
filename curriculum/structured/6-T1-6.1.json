@@ -1,0 +1,181 @@
+{
+  "schemaVersion": "2.0",
+  "sectionId": "6-T1",
+  "chapterNumber": 6,
+  "exerciseNumber": "6.1",
+  "source": "uploaded English and Tamil PDFs",
+  "questions": [
+    {
+      "questionNumber": "1",
+      "questionType": "APPLICATION",
+      "translations": {
+        "en": "Suppose, you have two shorts, one is black and the other one is blue; three shirts which are in white, blue and red. You again wish to make different combinations, but you always want to make sure that the shorts and shirt that you wear are of different colours. List and check how many combinations are possible now.",
+        "ta": "கருப்பு மற்றும் நீல வண்ணத்தில் தலா ஒரு கால் சட்டையும், வெள்ளை, நீலம், சிவப்பு வண்ணங்களில் தலா ஒரு மேல் சட்டையும் உன்னிடம் உள்ளன என்றால் ஒரே வண்ணத்தில் உள்ள ஆடைகளைத் தவிர்த்து எத்தனை வழிகளில் ஆடைகளை வெவ்வேறாக மாற்றி அணியலாம்?"
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "2",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "You have two red and two blue blocks. How many different towers can you build that are four blocks high using these blocks? List all the possibilities.",
+        "ta": "உன்னிடம் இரண்டு சிவப்பு மற்றும் இரண்டு நீல வண்ணங்களில் கட்டைகள் உள்ளன. அக்கட்டைகளை ஒன்றின் மேல் ஒன்றாக அடுக்கி எத்தனை நான்கு தளக் கட்டிடம் அமைக்கலாம்? அவற்றை வரிசைப்படுத்துக."
+      },
+      "blocks": []
+    },
+    {
+      "questionNumber": "3",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "In the following magic triangle, arrange the numbers from 1 to 6, so that you get the same sum on all its sides.",
+        "ta": "மாய முக்கோணத்தில் 1 இலிருந்து 6 வரை எண்களை ஒரு முறை மட்டுமே பயன்படுத்தி எத்தனை விடைகளைக் கொண்டு வரலாம்? ஆனால் அனைத்துப் பக்கங்களிலும் ஒரே கூடுதல் வரவேண்டும்."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Magic triangle with six empty circles: one at each vertex and one at the midpoint of each side."
+        }
+      ]
+    },
+    {
+      "questionNumber": "4",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Using the numbers from 1 to 9\n(i) Can you form a magic triangle?\n(ii) How many magic triangles can be formed?\n(iii) What are the sums of the sides of the magic triangle?",
+        "ta": "1 இலிருந்து 9 வரை எண்களை ஒரு முறை மட்டுமே பயன்படுத்தி\n(அ) மாய முக்கோணத்தை அமைக்க முடியுமா?\n(ஆ) எத்தனை மாய முக்கோணங்களை அமைக்கலாம்?\n(இ) மாய முக்கோணத்தில் பக்கங்களின் கூடுதலை எழுதுக."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Magic triangle with nine empty circles: one at each vertex and two additional circles along each side."
+        }
+      ]
+    },
+    {
+      "questionNumber": "5",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Arrange the odd numbers from 1 to 17 without repetition to get a sum of 30 on each side of the magic triangle.",
+        "ta": "1 இலிருந்து 17 வரை உள்ள ஒற்றை எண்களை ஒரு முறை மட்டுமே பயன்படுத்தி மாய முக்கோணத்தின் ஒவ்வொரு பக்கங்களின் கூடுதல் 30 என வருமாறு அமைக்க."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Nine-circle magic triangle. The top vertex is prefilled with 1, the bottom-left vertex with 5, and the bottom-right vertex with 3; the remaining six circles are empty."
+        }
+      ]
+    },
+    {
+      "questionNumber": "6",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Put the numbers 1, 2, 3, 4, 5, 6, & 7 in the circles so that each straight line of three numbers add up to the same total.",
+        "ta": "1 இலிருந்து 7 வரை எண்களைப் பயன்படுத்தி வட்டங்களை நிரப்பி, ஒவ்வொரு நேர்க்கோட்டிலும் கூடுதல் ஒரே எண்ணாக வருமாறு அமைக்க."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Seven empty circles arranged on three straight lines crossing at one central circle: a horizontal line and two diagonals, each containing an outer circle, the centre circle, and the opposite outer circle."
+        }
+      ]
+    },
+    {
+      "questionNumber": "7",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Place the number 1 to 12 in the 12 circles so that the sum of the numbers in each of the six lines of the star is 26. Use each number from 1 to 12 exactly once. Find more possible ways?",
+        "ta": "1 இலிருந்து 12 வரை எண்களைப் பயன்படுத்தி 12 வட்டங்களில் நிரப்ப வேண்டும். ஓர் எண்ணை ஒரே ஒரு முறை மட்டுமே பயன்படுத்த வேண்டும். 6 பக்கங்களிலும் தனித்தனியாகக் கூடுதல் 26 என வருமாறு எத்தனை வழிகளில் அமைக்கலாம்?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Six-pointed star outline with twelve empty circles placed at the six outer points and six internal intersection/edge positions."
+        }
+      ]
+    },
+    {
+      "questionNumber": "8",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "How many Triangles are there in each of the following figures?\n(i)\n(ii)\n(iii)\n(iv)",
+        "ta": "பின்வரும் படங்கள் ஒவ்வொன்றிலும் எத்தனை முக்கோணங்கள் உள்ளன?\n(i)\n(ii)\n(iii)\n(iv)"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Four triangle-counting figures as printed: (i) a square containing a diamond joined through the midpoints with central horizontal and vertical lines; (ii) a square divided through its centre with diagonals from all corners and central horizontal/vertical lines; (iii) a denser square construction containing an inner square/diamond network and crossing diagonals; (iv) a pentagon containing intersecting diagonals and a horizontal chord forming multiple triangles."
+        }
+      ]
+    },
+    {
+      "questionNumber": "9",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the number of dots in the tenth figure of the following patterns.\n(i)\n(ii)",
+        "ta": "பின்வரும் படத்தில் 10 ஆவது அமைப்பில் எத்தனை புள்ளிகள் இருக்கும் எனக் காண்க.\n(i)\n(ii)"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Two dot-pattern sequences, each showing the first five figures. Pattern (i) forms triangular dot arrays with 1, 3, 6, 10 and 15 dots. Pattern (ii) forms square dot arrays with 1, 4, 9, 16 and 25 dots."
+        }
+      ]
+    },
+    {
+      "questionNumber": "10",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "(i) Draw the next pattern.\n(ii) Prepare a table for the number of dots used for each pattern.\n(iii) Explain the pattern.\n(iv) Find the number of dots in the 25th pattern.",
+        "ta": "மேற்கண்ட புள்ளி அமைப்பில்\n(i) அடுத்த அமைப்பை வரைக.\n(ii) ஒவ்வோர் அமைப்பிலும் எத்தனை புள்ளிகள் பயன்படுத்தப்பட்டுள்ளன என்பதை அட்டவணைப்படுத்துக.\n(iii) அமைப்பு விதியை விளக்குக.\n(iv) 25 ஆவது அமைப்பில் எத்தனை புள்ளிகள் இருக்கும் எனக் காண்க."
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Three successive dot patterns: first has one row of 2 dots; second has rows of 2 and 3 dots; third has rows of 2, 3 and 4 dots."
+        }
+      ]
+    },
+    {
+      "questionNumber": "11",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Count the number of squares in each of the following figures?\n(i)\n(ii)",
+        "ta": "பின்வரும் படங்களில் எத்தனை சதுரங்கள் உள்ளன?\n(i)\n(ii)"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Two square-counting figures. (i) Four concentric/nested axis-aligned squares crossed by one full horizontal and one full vertical line through the centre. (ii) A cross-shaped arrangement of rectangles/squares containing a central diamond and central horizontal and vertical lines."
+        }
+      ]
+    },
+    {
+      "questionNumber": "12",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "How many Circles are there in the following figure?",
+        "ta": "கீழே உள்ள படத்தில் எத்தனை வட்டங்கள் உள்ளன?"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Flower-like construction made from several equal overlapping circle outlines arranged symmetrically around a common central region."
+        }
+      ]
+    },
+    {
+      "questionNumber": "13",
+      "questionType": "PROBLEM",
+      "translations": {
+        "en": "Find the minimum number of straight lines used in forming the following figures.\n(i)\n(ii)",
+        "ta": "பின்வரும் படங்கள் அமையப் பயன்படுத்தப்பட்ட குறைந்த அளவு நேர்க்கோடுகளின் எண்ணிக்கையைக் காண்க.\n(i)\n(ii)"
+      },
+      "blocks": [
+        {
+          "blockType": "diagram",
+          "assetAlt": "Two line-counting figures. (i) A 4 by 4 square grid. (ii) A large equilateral triangle subdivided into a triangular lattice of smaller triangles, with four small divisions along the base."
+        }
+      ]
+    }
+  ]
+}
